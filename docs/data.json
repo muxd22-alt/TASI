@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-01T04:35:20.224121",
+  "timestamp": "2026-04-01T04:39:30.629978",
   "tasi": {
     "index": [
       "2026-03-01",
@@ -392,7 +392,7 @@
       112.56999969482422,
       112.77999877929688,
       118.3499984741211,
-      105.23999786376953
+      105.3499984741211
     ],
     "volume": [
       143671,
@@ -417,18 +417,31 @@
       18402,
       15053,
       15053,
-      4072
+      4081
     ]
   },
-  "news": [],
+  "news": [
+    {
+      "title": "Saudi AI company Humain partners with Turing to launch world’s first enterprise AI agent marketplace - Arab News",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYTWZiZ1BydkV1QkYwd1dUR2NraTlhNGhXQUZRdDNzV3hQU0tObWIwOXpLejRtRGRDNkpnazRJNV9OY0NPUnl6UHhKdHlmQjg1ZnJFYVFuSWp3bTlFZTRHR1NqQ1A?oc=5",
+      "publishedAt": "Thu, 26 Mar 2026 10:19:55 GMT",
+      "source": "Arab News"
+    },
+    {
+      "title": "Iran reportedly threatening to cut Red Sea cables: What it means for internet users across the world, including India - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOeEZnTDRnenlPOHZvbkg5RDZWUzFINDdFWWJma2Rmb1k3Q0ZpQVBmTXVsRDBXZ2lfbHJWck5Ka2tZZUFqb2dVRTNnUDBOenQ3RUdVVWdMN2VyUnJ2SlNuR09tYTFQR2VGbklfYTVIVmhBS25HR25vVW9BdGtuZ05uaFFQcThvaHBSS3pqYnBzcG9wclNjc0pTYThadVQ3N0R5S1d3czdHWkVMa2l2Yng1Vm1CSEhweTJlNk54eFVMNnY4bzdxRVJ3R0dpdlpwdENfbm0xbFhad1YzeTVQeXZ2VzRpWjIzZEstc2ZPdTJkRzdKdkQ2Mkk0dnF6WGQyMElkOE1raEFSSGVvYkFINVhuRGRBN1RMdUZONVoyQklDYkRUaGUtcG0tZ0F6LTV4Z2VzRkRIUERRb3o?oc=5",
+      "publishedAt": "Mon, 30 Mar 2026 14:28:54 GMT",
+      "source": "MSN"
+    }
+  ],
   "ai_analysis": {
-    "summary": "AI summary not generated.",
-    "sentiment": "Neutral"
+    "summary": "Saudi Arabia's AI sector is gaining strong positive momentum through strategic corporate partnerships and the launch of pioneering platforms like the world’s first enterprise AI agent marketplace. Although regional geopolitical tensions pose indirect infrastructure risks, the Kingdom's aggressive capital deployment and innovation pipeline clearly outweigh these external headwinds. Overall, the tech investment climate remains highly optimistic and positioned for sustained growth.",
+    "sentiment": "Bullish"
   },
   "metadata": {
-    "fetched_at": "2026-04-01T04:35:20.224127",
-    "fetch_duration_seconds": 0.63159,
+    "fetched_at": "2026-04-01T04:39:30.629990",
+    "fetch_duration_seconds": 32.999425,
     "openrouter_api_available": true,
-    "news_count": 0
+    "news_count": 2
   }
 }
