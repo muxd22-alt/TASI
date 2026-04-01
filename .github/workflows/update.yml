@@ -24,6 +24,7 @@ permissions:
 env:
   PYTHON_VERSION: '3.11'
   PIP_CACHE_DIR: ${{ github.workspace }}/.cache/pip
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   update-data:
