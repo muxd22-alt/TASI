@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-01T04:39:30.629978",
+  "timestamp": "2026-04-01T05:26:58.242655",
   "tasi": {
     "index": [
       "2026-03-01",
@@ -392,7 +392,7 @@
       112.56999969482422,
       112.77999877929688,
       118.3499984741211,
-      105.3499984741211
+      104.5
     ],
     "volume": [
       143671,
@@ -417,7 +417,7 @@
       18402,
       15053,
       15053,
-      4081
+      4914
     ]
   },
   "news": [
@@ -435,12 +435,12 @@
     }
   ],
   "ai_analysis": {
-    "summary": "Saudi Arabia's AI sector is gaining strong positive momentum through strategic corporate partnerships and the launch of pioneering platforms like the world’s first enterprise AI agent marketplace. Although regional geopolitical tensions pose indirect infrastructure risks, the Kingdom's aggressive capital deployment and innovation pipeline clearly outweigh these external headwinds. Overall, the tech investment climate remains highly optimistic and positioned for sustained growth.",
+    "summary": "Saudi AI and tech investments are experiencing strong bullish momentum, highlighted by pioneering ventures like Humain's partnership to launch the world's first enterprise AI agent marketplace. Although regional geopolitical tensions such as potential Red Sea cable disruptions introduce minor infrastructural risks, the Kingdom's rapid expansion and strategic alliances signal a highly optimistic long-term growth outlook for its technology sector.",
     "sentiment": "Bullish"
   },
   "metadata": {
-    "fetched_at": "2026-04-01T04:39:30.629990",
-    "fetch_duration_seconds": 32.999425,
+    "fetched_at": "2026-04-01T05:26:58.242665",
+    "fetch_duration_seconds": 27.851281,
     "openrouter_api_available": true,
     "news_count": 2
   }
