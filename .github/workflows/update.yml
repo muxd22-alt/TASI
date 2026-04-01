@@ -59,7 +59,8 @@ jobs:
       - name: Fetch market data
         id: fetch
         env:
-          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI }}
         run: |
           echo "::group::Fetch Output"
           python scripts/fetch_data.py
