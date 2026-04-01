@@ -35,7 +35,6 @@ wheels/
 Thumbs.db
 
 # Project specific
-docs/data.json
 *.bat
 *.sh
 CONTRIBUTING.md
