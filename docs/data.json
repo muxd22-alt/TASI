@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-03T05:06:51.126623",
+  "timestamp": "2026-04-04T04:51:55.716572",
   "tasi": {
     "index": [
       "2026-03-02",
@@ -277,7 +277,7 @@
       70602600,
       95878000,
       79435100,
-      50770500
+      50941700
     ]
   },
   "oil": {
@@ -445,8 +445,8 @@
     "sentiment": "Neutral"
   },
   "metadata": {
-    "fetched_at": "2026-04-03T05:06:51.126632",
-    "fetch_duration_seconds": 0.720423,
+    "fetched_at": "2026-04-04T04:51:55.716579",
+    "fetch_duration_seconds": 0.909897,
     "openrouter_api_available": true,
     "news_count": 1
   }
