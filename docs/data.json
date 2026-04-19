@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-18T05:08:28.260209",
+  "timestamp": "2026-04-19T05:31:19.235537",
   "tasi": {
     "index": [
       "2026-03-16",
@@ -276,7 +276,6 @@
   },
   "oil": {
     "index": [
-      "2026-03-18",
       "2026-03-19",
       "2026-03-20",
       "2026-03-23",
@@ -300,7 +299,6 @@
       "2026-04-17"
     ],
     "open": [
-      103.44999694824219,
       109.66000366210938,
       107.66999816894531,
       114.9000015258789,
@@ -324,7 +322,6 @@
       98.25
     ],
     "high": [
-      111.86000061035156,
       119.12000274658203,
       113.11000061035156,
       115.0999984741211,
@@ -348,7 +345,6 @@
       98.97000122070312
     ],
     "low": [
-      100.33999633789062,
       103.75,
       105.0999984741211,
       96.25,
@@ -372,7 +368,6 @@
       86.08000183105469
     ],
     "close": [
-      107.37999725341797,
       108.6500015258789,
       112.19000244140625,
       99.94000244140625,
@@ -396,7 +391,6 @@
       90.37999725341797
     ],
     "volume": [
-      73104,
       87485,
       57217,
       113332,
@@ -417,22 +411,10 @@
       40991,
       41928,
       36540,
-      36540
+      82451
     ]
   },
   "news": [
-    {
-      "title": "Saudi AI authority to boost global data protection efforts - arabnews.jp",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1acDFud3lUWnRCbWdxU3FmZGd2OTdoRG10SzJzRDBKb1FvS0JBTm94S1REbmhzTUxEZl9xaEdtMVNOX2dCdTBNWnE3TVhHRjdQekdMQ3dibU5WekdoeVlERWZHOUdWdw?oc=5",
-      "publishedAt": "Sat, 11 Apr 2026 12:04:14 GMT",
-      "source": "arabnews.jp"
-    },
-    {
-      "title": "Nvidia Returns to $3 Trillion Club as Stock Surges on Saudi AI Partnership - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNRWtrNUVYUUlWMHpIZ0FrdU5LcE9iZFRZS3NUdjlTVUMxUF9kdDV2OXl2b0FGSHQ5VUNJZW9Vd3lkYmxVOHNmWFRyQlBLTEUxYmJDUUVzN1BRNGhsX2FHVy1mQU1PRi02bnhyZ0hQNWlsOUJ4VzBLdHdRZkZreG1sTVdQWGJ2cFNqZk9TSEc0RmVmYldRd2tIc3EzZ1hWalB4OVhMR3NsdENvTVRSNUN0aVFwNklKSUtvQlk3T0lLN0kydzduaGp6bjI3Y0E1Z1FUU2lDV09YX0VNeHI5dTRDb2hRSjZyMnQwemowTDNfaFEtejNHRDJ4cGhXcjRybnJCVEprVmtBZk5IeXE2WmJPbUJFdEdqOWoxMkl5dWdqb1BqWWFsTThXOUs0aFNYaTJqTWFPWVdEX1ZPb1JBZVRrRnNpX0QtUU4xWk9uZGV6bDV6MDI4R3B0VVpzVi1odHo5eVUwbUM1QUZYRlNvdm9Ydm13?oc=5",
-      "publishedAt": "Sat, 11 Apr 2026 22:00:48 GMT",
-      "source": "MSN"
-    },
     {
       "title": "Saudi Arabia leads in AI security, privacy, cryptography and women’s empowerment: Stanford AI Index - Arab News",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UZGl6bnBoOEpBQy12ZnVaeUVQc1IxUWZySkgtY0dsdUV5Z1A4dU8ycmZDblJUM3FIdy1xdTFiTWJVQzFrVU1DTEZYcWh6SkE4eTZR?oc=5",
@@ -451,9 +433,9 @@
     "sentiment": "Neutral"
   },
   "metadata": {
-    "fetched_at": "2026-04-18T05:08:28.260220",
-    "fetch_duration_seconds": 0.916454,
+    "fetched_at": "2026-04-19T05:31:19.235547",
+    "fetch_duration_seconds": 1.256946,
     "openrouter_api_available": true,
-    "news_count": 4
+    "news_count": 2
   }
 }
