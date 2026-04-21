@@ -1,8 +1,7 @@
 {
-  "timestamp": "2026-04-19T05:31:19.235537",
+  "timestamp": "2026-04-21T05:29:20.057581",
   "tasi": {
     "index": [
-      "2026-03-16",
       "2026-03-24",
       "2026-03-25",
       "2026-03-26",
@@ -20,10 +19,11 @@
       "2026-04-13",
       "2026-04-14",
       "2026-04-15",
-      "2026-04-16"
+      "2026-04-16",
+      "2026-04-19",
+      "2026-04-20"
     ],
     "open": [
-      10900.48046875,
       10954.4296875,
       10953.1796875,
       11083.1796875,
@@ -41,10 +41,11 @@
       11318.41015625,
       11427.2001953125,
       11484.009765625,
-      11585.0498046875
+      11585.0498046875,
+      11547.169921875,
+      11466.5
     ],
     "high": [
-      10946.259765625,
       10982.8603515625,
       11087.259765625,
       11112.6298828125,
@@ -62,10 +63,11 @@
       11426.76953125,
       11489.080078125,
       11592.2998046875,
-      11585.0498046875
+      11585.0498046875,
+      11566.2099609375,
+      11476.16015625
     ],
     "low": [
-      10849.7900390625,
       10880.5,
       10939.5302734375,
       11036.990234375,
@@ -83,10 +85,11 @@
       11309.599609375,
       11414.900390625,
       11483.8603515625,
-      11519.0595703125
+      11519.0595703125,
+      11450.16015625,
+      11366.7900390625
     ],
     "close": [
-      10946.259765625,
       10949.3798828125,
       11079.9296875,
       11090.330078125,
@@ -104,10 +107,11 @@
       11426.76953125,
       11486.1796875,
       11589.0498046875,
-      11554.16015625
+      11554.16015625,
+      11464.5400390625,
+      11366.7900390625
     ],
     "volume": [
-      255171900,
       337037200,
       262421400,
       263415900,
@@ -125,14 +129,13 @@
       285936100,
       279365400,
       374728000,
-      330423900
+      330423900,
+      252700400,
+      258031100
     ]
   },
   "qqq": {
     "index": [
-      "2026-03-18",
-      "2026-03-19",
-      "2026-03-20",
       "2026-03-23",
       "2026-03-24",
       "2026-03-25",
@@ -151,12 +154,10 @@
       "2026-04-14",
       "2026-04-15",
       "2026-04-16",
-      "2026-04-17"
+      "2026-04-17",
+      "2026-04-20"
     ],
     "open": [
-      600.7325461165636,
-      588.7676039624899,
-      590.3156309505814,
       590.52001953125,
       584.8099975585938,
       589.1400146484375,
@@ -175,12 +176,10 @@
       620.219970703125,
       629.0800170898438,
       639.2100219726562,
-      645.5900268554688
+      645.5900268554688,
+      648.0399780273438
     ],
     "high": [
-      602.400426051188,
-      595.0496606380132,
-      590.4254777892629,
       595.0800170898438,
       587.9299926757812,
       591.3699951171875,
@@ -199,12 +198,10 @@
       628.5999755859375,
       637.8300170898438,
       642.1799926757812,
-      650.0
+      650.0,
+      648.760009765625
     ],
     "low": [
-      593.8112802396884,
-      586.3406715242521,
-      577.8113788279011,
       585.9600219726562,
       581.9299926757812,
       585.6900024414062,
@@ -223,12 +220,10 @@
       620.0999755859375,
       628.2000122070312,
       635.260009765625,
-      644.0700073242188
+      644.0700073242188,
+      642.52001953125
     ],
     "close": [
-      594.15087890625,
-      592.273193359375,
-      581.3269653320312,
       588.0,
       583.97998046875,
       587.8200073242188,
@@ -247,12 +242,10 @@
       628.5999755859375,
       637.4000244140625,
       640.469970703125,
-      648.8499755859375
+      648.8499755859375,
+      646.7899780273438
     ],
     "volume": [
-      56128000,
-      75597600,
-      91964700,
       89936100,
       57750900,
       60475500,
@@ -271,13 +264,12 @@
       49921100,
       50102400,
       42320600,
-      53386300
+      53488900,
+      37055100
     ]
   },
   "oil": {
     "index": [
-      "2026-03-19",
-      "2026-03-20",
       "2026-03-23",
       "2026-03-24",
       "2026-03-25",
@@ -296,11 +288,11 @@
       "2026-04-14",
       "2026-04-15",
       "2026-04-16",
-      "2026-04-17"
+      "2026-04-17",
+      "2026-04-20",
+      "2026-04-21"
     ],
     "open": [
-      109.66000366210938,
-      107.66999816894531,
       114.9000015258789,
       100.5,
       99.98999786376953,
@@ -319,11 +311,11 @@
       98.41999816894531,
       95.5199966430664,
       94.91000366210938,
-      98.25
+      98.25,
+      96.20999908447266,
+      93.98999786376953
     ],
     "high": [
-      119.12000274658203,
-      113.11000061035156,
       115.0999984741211,
       105.04000091552734,
       103.4000015258789,
@@ -342,11 +334,11 @@
       99.41000366210938,
       96.88999938964844,
       99.83999633789062,
-      98.97000122070312
+      98.97000122070312,
+      97.80999755859375,
+      95.69000244140625
     ],
     "low": [
-      103.75,
-      105.0999984741211,
       96.25,
       98.08999633789062,
       97.1500015258789,
@@ -365,11 +357,11 @@
       94.43000030517578,
       91.0,
       94.41999816894531,
-      86.08000183105469
+      86.08000183105469,
+      92.7699966430664,
+      93.9800033569336
     ],
     "close": [
-      108.6500015258789,
-      112.19000244140625,
       99.94000244140625,
       104.48999786376953,
       102.22000122070312,
@@ -388,11 +380,11 @@
       94.79000091552734,
       94.93000030517578,
       99.38999938964844,
-      90.37999725341797
+      90.37999725341797,
+      95.4800033569336,
+      94.30000305175781
     ],
     "volume": [
-      87485,
-      57217,
       113332,
       68614,
       53714,
@@ -411,10 +403,18 @@
       40991,
       41928,
       36540,
-      82451
+      85233,
+      85233,
+      2273
     ]
   },
   "news": [
+    {
+      "title": "Boeing, GE Aerospace Get Qatar Airways Order After Saudi AI Tech Deals - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxORUNIR3Y5cGNfalBScHRma0lEZXIwbE5NaEt4SHZoM0s2eEVzZ0J3bXhnX3RIejd1ZkhiaXBpcDVCMGZFZDFURmhUOFNBaHM2QmFsdVd5ekhzNWJSbTNiOENfZDh5UWpyVF9YRzlZZ0o3VGZ5QXBiZUd4cm40OEZRSmZkaWpYLXh1NE9BejhyY1ZpTTQ1STRqa1ZmV1R2MjdoalJNREIxWk1OdWVKcnBoay1zNlNTamo3cC1mQ0ZHZ19RT2s3cl8weE5DREhxV2xwVDZ3TFBfSktFb0dTMEtzektNN3Y2WktTZjBZd0hYS3l6VlNOVC1ER3pnTkdRTHVTUlVVTjN3dTd5ZVZ2MEYxQmw5SXRxUGNLM28xQ0pNaDNFa0NJWmt0R1JjQTBQc0RQVVRkNXl0SVNZTVdhcDdzNjNaUlFiSGQ5bWhfeHc5V0lMQnRMbzNYLV82el90aERwWEhCWEMtYjJ1cFBxY2tjR3VXZnVXbEQ2V0E?oc=5",
+      "publishedAt": "Wed, 15 Apr 2026 00:19:10 GMT",
+      "source": "MSN"
+    },
     {
       "title": "Saudi Arabia leads in AI security, privacy, cryptography and women’s empowerment: Stanford AI Index - Arab News",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UZGl6bnBoOEpBQy12ZnVaeUVQc1IxUWZySkgtY0dsdUV5Z1A4dU8ycmZDblJUM3FIdy1xdTFiTWJVQzFrVU1DTEZYcWh6SkE4eTZR?oc=5",
@@ -422,10 +422,10 @@
       "source": "Arab News"
     },
     {
-      "title": "RedCloud Holdings plc (RCT) Stock: Surges 70% After $30M Saudi AI Deal - parameter.io",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNam5YQUNnMWpGSENoTWNtZnR6UHoxTGlMdEFvYXNTQzJpam81OGQ5TzFpQUxLMzc3ZjJkeTk3UlpqS0thYTEwanViRTFNSWh1UUo4eW5WczlPam5Qa2lWWl9rQjdjYXNQQm9tRHVqcnZ2b29YZ3NxejJJSVN1TEttQnU5RVJLN19uTGZfZE5zN2E?oc=5",
-      "publishedAt": "Mon, 13 Apr 2026 18:23:12 GMT",
-      "source": "parameter.io"
+      "title": "Supermicro Soars Wednesday, Extending Gains as AI Stocks Rally - MSN",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxORnNMVWZMeGd3TlBvN3RhMkFWSnhXMkwxM21rTmNfS0lKNmdyR2hZTkNVbHUxR0pmcUl1THlmVDNMQzBDOC1XcnZrbTFGcXBKQXpuR2l4NUphR0VkMVJkUWVQMGNJSm8zR21Zc1FCTWlLY1VPc2hKMTlfQXJ0YWZkbTZxRlV6bnpiblgzOTNvcFB6Q0RzU0diV3c1TkR5TFpYcThUdURBZmRESjk5cDhuVTNESHlhbVJnY25lQkFIQUszVmhsd1pqRjQ4aU02TVZaUjJjQ1ZjU2FybFN2QkZiVWRFbndzbkFOU1NlcjBKclQyTXMta0g4cHl3OGZSdU5sVTMzT3lKM2t0VWVFS2JESWFzSDQyc2lyVW00M2R0SnMtc3Q3ajBaQXBQeG9UdFY3VFBJOTNtSDRkMlp0aGdYTUVsdUNyZHM?oc=5",
+      "publishedAt": "Mon, 20 Apr 2026 14:02:44 GMT",
+      "source": "MSN"
     }
   ],
   "ai_analysis": {
@@ -433,9 +433,9 @@
     "sentiment": "Neutral"
   },
   "metadata": {
-    "fetched_at": "2026-04-19T05:31:19.235547",
-    "fetch_duration_seconds": 1.256946,
+    "fetched_at": "2026-04-21T05:29:20.057587",
+    "fetch_duration_seconds": 0.984234,
     "openrouter_api_available": true,
-    "news_count": 2
+    "news_count": 3
   }
 }
