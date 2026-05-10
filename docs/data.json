@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-09T05:50:01.570035",
+  "timestamp": "2026-05-10T06:13:31.683577",
   "tasi": {
     "index": [
       "2026-04-07",
@@ -300,7 +300,6 @@
   },
   "oil": {
     "index": [
-      "2026-04-09",
       "2026-04-10",
       "2026-04-13",
       "2026-04-14",
@@ -324,7 +323,6 @@
       "2026-05-08"
     ],
     "open": [
-      96.52999877929688,
       96.37999725341797,
       99.70999908447266,
       98.41999816894531,
@@ -348,7 +346,6 @@
       103.55999755859375
     ],
     "high": [
-      99.5199966430664,
       98.25,
       103.86000061035156,
       99.41000366210938,
@@ -372,7 +369,6 @@
       103.95999908447266
     ],
     "low": [
-      94.33999633789062,
       94.23999786376953,
       97.63999938964844,
       94.43000030517578,
@@ -396,7 +392,6 @@
       99.54000091552734
     ],
     "close": [
-      95.91999816894531,
       95.19999694824219,
       99.36000061035156,
       94.79000091552734,
@@ -420,7 +415,6 @@
       101.29000091552734
     ],
     "volume": [
-      54501,
       35012,
       50559,
       40991,
@@ -441,7 +435,7 @@
       39713,
       61814,
       62847,
-      62847
+      31766
     ]
   },
   "news": [
@@ -466,7 +460,7 @@
     {
       "title": "AWS and HUMAIN to Build a Full-Stack AI Ecosystem in Saudi Arabia - MIT Sloan Management Review Middle East",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcXJQU19VbE4zQzRYbVplQmkyVnQxVG1wRk9OTmZPTVNXVmw1VEVWa25FMjl5Yk14djN0TWVaOTcwM2VCZEVvRmJlcVdkcy1aNkdqV2R0REN6eXNOVWpiQnJkVHpmcms3OWszSEJPUV9pZmxVamp4YVZxaXVDXzBYZVJsVGJ6VGNMa1VkbG9uWG40YzBOUEc1X2JsUlFKVnBQc2M4?oc=5",
-      "publishedAt": "Thu, 07 May 2026 14:47:15 GMT",
+      "publishedAt": "Mon, 04 May 2026 14:38:12 GMT",
       "source": "MIT Sloan Management Review Middle East"
     },
     {
@@ -476,10 +470,10 @@
       "source": "Let's Data Science"
     },
     {
-      "title": "Saudi Arabia Bans Use of Government Names in Property Ads - CairoScene",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWmRBSjJNQzgxVmN3RUhFajF5dm1mc2c0bUJ5cnZDTUkweDY4UEQ2alNpUk5Nb0ZwZjJFd1paSWEyT2tOcVhpYWRLbkxndWRIX0sxSkplaTg1cEo4SmpnNzlTM2RXMG9tNThyaVlNWkFJRkdEeWZnMVJMZVZWYm1GSVBkbEV2SXhwQzk4dzJR?oc=5",
-      "publishedAt": "Mon, 04 May 2026 10:28:25 GMT",
-      "source": "CairoScene"
+      "title": "Saudi PIF-backed HUMAIN expands AWS partnership to launch global AI operating system ‘HUMAIN ONE’ - Arabian Business",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeVpYZ3hyYjQ5UG45eTA4dW8yYnVNZ1ZSVS1tcU5CSlB0OXBQZFdRYUdpak5aNEJyaEtfTld0NXVNaGNXckFWLTlINUFlSUpibzV5ZzV5eXlQMS1naWxSMzBRVGJNWmpkRGxSQzFXS2JZZFlITkRBcDJ3Qm8wMTdkQ2Y0bmxRSEFwVHlEajRxbUE2SlRsMUVqQVVIRmNqRGlSZEpOWjQ2Z3JUbktNX09BMzJvMEJnSDV3T0RKejJqNEFSY3ZPbXExRVUxTmJnQkh3NDRYWV8xaU5RSV93RWxUNA?oc=5",
+      "publishedAt": "Sun, 03 May 2026 18:07:35 GMT",
+      "source": "Arabian Business"
     },
     {
       "title": "Saudi AI-powered systems speed up Pakistani pilgrims’ journey under Makkah Route Initiative - | Associated Press Of Pakistan",
@@ -493,8 +487,8 @@
     "sentiment": "Neutral"
   },
   "metadata": {
-    "fetched_at": "2026-05-09T05:50:01.570047",
-    "fetch_duration_seconds": 0.8888,
+    "fetched_at": "2026-05-10T06:13:31.683588",
+    "fetch_duration_seconds": 2.055062,
     "openrouter_api_available": true,
     "news_count": 7
   }
