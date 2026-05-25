@@ -1,10 +1,7 @@
 {
-  "timestamp": "2026-05-24T06:38:38.328930",
+  "timestamp": "2026-05-25T07:16:31.714214",
   "tasi": {
     "index": [
-      "2026-04-21",
-      "2026-04-22",
-      "2026-04-23",
       "2026-04-26",
       "2026-04-27",
       "2026-04-28",
@@ -27,9 +24,6 @@
       "2026-05-21"
     ],
     "open": [
-      11395.1904296875,
-      11348.9296875,
-      11243.919921875,
       11116.76953125,
       11136.5,
       11199.1298828125,
@@ -52,9 +46,6 @@
       11001.509765625
     ],
     "high": [
-      11466.6396484375,
-      11354.8603515625,
-      11250.1201171875,
       11146.650390625,
       11200.6103515625,
       11223.1396484375,
@@ -77,9 +68,6 @@
       11032.0703125
     ],
     "low": [
-      11331.8701171875,
-      11243.1298828125,
-      11102.3095703125,
       11072.76953125,
       11100.8701171875,
       11177.66015625,
@@ -102,9 +90,6 @@
       10973.1298828125
     ],
     "close": [
-      11344.9599609375,
-      11244.990234375,
-      11109.58984375,
       11121.5595703125,
       11168.509765625,
       11179.9501953125,
@@ -127,9 +112,6 @@
       11027.5400390625
     ],
     "volume": [
-      275683300,
-      280786400,
-      331373100,
       216685800,
       374521700,
       328687500,
@@ -300,7 +282,6 @@
   },
   "oil": {
     "index": [
-      "2026-04-24",
       "2026-04-27",
       "2026-04-28",
       "2026-04-29",
@@ -320,10 +301,10 @@
       "2026-05-19",
       "2026-05-20",
       "2026-05-21",
-      "2026-05-22"
+      "2026-05-22",
+      "2026-05-25"
     ],
     "open": [
-      106.27999877929688,
       106.5,
       108.30000305175781,
       111.01000213623047,
@@ -343,10 +324,10 @@
       109.55000305175781,
       111.20999908447266,
       105.20999908447266,
-      104.5199966430664
+      104.5199966430664,
+      97.58999633789062
     ],
     "high": [
-      107.45999908447266,
       109.79000091552734,
       112.69000244140625,
       120.30000305175781,
@@ -366,10 +347,10 @@
       111.79000091552734,
       111.5,
       109.30999755859375,
-      106.3499984741211
+      106.3499984741211,
+      97.58999633789062
     ],
     "low": [
-      103.4000015258789,
       105.8499984741211,
       107.91999816894531,
       110.20999908447266,
@@ -389,10 +370,10 @@
       108.9000015258789,
       103.27999877929688,
       102.16000366210938,
-      101.37999725341797
+      101.37999725341797,
+      94.20999908447266
     ],
     "close": [
-      105.33000183105469,
       108.2300033569336,
       111.26000213623047,
       118.02999877929688,
@@ -412,10 +393,10 @@
       111.27999877929688,
       105.0199966430664,
       102.58000183105469,
+      103.54000091552734,
       100.20999908447266
     ],
     "volume": [
-      52646,
       29439,
       23451,
       18031,
@@ -435,7 +416,8 @@
       29390,
       53332,
       51232,
-      33917
+      51232,
+      4439
     ]
   },
   "news": [
@@ -458,16 +440,28 @@
       "source": "Finimize"
     },
     {
-      "title": "Accenture Expands Saudi AI Push Through HUMAIN Partnership - GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNck8yZHVFallrb2hhS1NTbmxJSGNHQktxVnVVWlR1YThDT0ZKTTlVQTdsQks1SG45YU9nVDYxT2xmSEx5aDNrS3FCMXBEdjhHaThuVGlxVTBaN25TVjB3bGt1cWxOdVBnSVhhc1pWcWp4SDBZMm10MWlDMDhsOVl3MGdOc3VNeHlFbEVtOVVMZlNjckNEblB2OTBvRzJCcFVNNHB5Q0RzS21PT05TOGc?oc=5",
-      "publishedAt": "Wed, 20 May 2026 18:42:40 GMT",
-      "source": "GuruFocus"
+      "title": "Accenture Expands Saudi AI Push Through HUMAIN Partnership - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYVQ5TmxhRy1Ma01XLUJhSTg4NGx3ZTNFYml5T19WSDBKQUtSWWplNmJ4QXBhazRwQ3BxMlIxY181YXNuS2huOTBjOHNqQXVUV1VFRUwzd0p2UjRhNWZfcHZObi1PcXpsaEo4TmJqLVVLd2NCWFV2ZklNZzBwNjU2alVkWjlSdm85NTZoektCaUN4ZUNoNFZtcm5obzZ4UERVTFB6WVI2ZjV4Z2g1dnFJcWZLblg0cmJ2akE?oc=5",
+      "publishedAt": "Wed, 20 May 2026 18:23:01 GMT",
+      "source": "TradingView"
+    },
+    {
+      "title": "HUMAIN names Accenture as Strategic Reinvention & AI Partner in Saudi market - Consultancy-me.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVFpYRUkwbEl1dTc0TW1HSE9jbk9SMjM3ODZYekhPaE1ZTFhKTFpyVkszM1U0cUpreXF2d3dRTFJDYUxGZDVGb19JWTJmLUxvb2VOR2FsTlR0bUFzTUJxRERPaHFTTWV6dnNPaDlvaXBiZi02Y2dCNEx0bC1vWFdrM0FpRVpUdzZNWFZlTUtLUUwtT29Jb3dpYTZCcmFUTXh1akZJcXQ4NWJOeVJYUHJKdXRianhVMlXSAbwBQVVfeXFMTVNJVkNFeVk5MklpSmw3TFYtOHhoQVdvd0NiRjJFWFhrdktHeWFGZWp2UWc0TVB1QmluYnUxUXhGbDBHVXdLcS0xRGsyZmR4dkx3U2I4ODVNbTdvOUlodl9peERrUkdmdnJ6UEVwRjZwdXRVZ2Z3VXNKSjg1czVfVDFZZWtGU1BhVWhkS283TnJaOVZXbHRHLVZOZ1FxRUdiNXZ6MmdfUUp5a2RXelZLNjdZXzFxTXFoMk9jM3M?oc=5",
+      "publishedAt": "Thu, 21 May 2026 08:07:10 GMT",
+      "source": "Consultancy-me.com"
     },
     {
       "title": "Saudi AI Firm Taps Goldman for Data Centre Deal - Finance News Network",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWk1uYVU5SzM5NnVMZTBzX2lOT2JZRUVOOFdaelhUVWNnbWhZZ1ZGZzlHWEp5Q2dOOHVDNWY4dTJ1MnN6NlVpQ1BUV3locjZBUF85VXZxZE5KM2RBT2o2YWFSaDBSTkF4dlRMaUZpX1M3alQwbDBzQWdRVWtrRWJjYg?oc=5",
       "publishedAt": "Tue, 19 May 2026 22:03:49 GMT",
       "source": "Finance News Network"
+    },
+    {
+      "title": "HUMAIN and McKinsey to collaborate on delivering AI transformations in Saudi Arabia - Consultancy-me.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZnNLX2ZqQ21wZThPUHRWTXpZZ21GTWVxZW5EcWx5N0FDdl9seUpjQ0JYdVEybEppbFAwWVFya3BZRmcydUxOQW9FYkdtV2NaZVU5MHpwODJPc2VKNmZ3cU1xNzFuYzU4MU1yeFF0c2FWdEtkUGdEdkJrd3VoVGFQblNDTklybURUV014QV9IbzBoQjBxS2tibGx3ZnJJSzZua3J6aVFtenRDMDdRUVp0bF9qQlR1RUk4SmQxWTdvd0pBUUnSAcgBQVVfeXFMTmlGdHAxRXZmdU5SbFhtczJJQmdQajh3bzBUY2RHOVVnVWRWLUxMRl95cDgybEJEMGhwLW54MUYzeE5KWndZRnd2SV9hRVBCbzBtOXctZlNyRDNQV0pZSmtPNF9sbm8wZkktQlV4RXMzMlV4cTVHMk1qM1FqWXJVRG9TYVI2bmJ2VHU0NnlzcnZvU05wZDZ0Q3pMRTZxWXMtRkpUOEg5OFd4aklrUGhMOUJPNW5XVGdOamp2bnZoOUVSSVpacUVnUmE?oc=5",
+      "publishedAt": "Thu, 21 May 2026 08:59:50 GMT",
+      "source": "Consultancy-me.com"
     }
   ],
   "ai_analysis": {
@@ -475,9 +469,9 @@
     "sentiment": "Neutral"
   },
   "metadata": {
-    "fetched_at": "2026-05-24T06:38:38.328943",
-    "fetch_duration_seconds": 0.943965,
+    "fetched_at": "2026-05-25T07:16:31.714225",
+    "fetch_duration_seconds": 1.296304,
     "openrouter_api_available": true,
-    "news_count": 5
+    "news_count": 7
   }
 }
