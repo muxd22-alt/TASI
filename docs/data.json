@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-25T07:16:31.714214",
+  "timestamp": "2026-05-26T06:49:01.940396",
   "tasi": {
     "index": [
       "2026-04-26",
@@ -302,7 +302,7 @@
       "2026-05-20",
       "2026-05-21",
       "2026-05-22",
-      "2026-05-25"
+      "2026-05-26"
     ],
     "open": [
       106.5,
@@ -371,7 +371,7 @@
       103.27999877929688,
       102.16000366210938,
       101.37999725341797,
-      94.20999908447266
+      93.19999694824219
     ],
     "close": [
       108.2300033569336,
@@ -394,7 +394,7 @@
       105.0199966430664,
       102.58000183105469,
       103.54000091552734,
-      100.20999908447266
+      95.2300033569336
     ],
     "volume": [
       29439,
@@ -417,7 +417,7 @@
       53332,
       51232,
       51232,
-      4439
+      19296
     ]
   },
   "news": [
@@ -432,12 +432,6 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4dmlrRGZiOGx0Y3E1dXBMSG10S2FNd1Z5RG9YNUxwLXBtRWlfTnU0WmYxZHlzeE8tUTZ1S2xoTjBOTjJfclEtS0FzZTlFTnZHWXhVcDYyRVJkZV84eHlwc0Y4ZGdOM2FLcU5TZWV6STZwSzFCXy1MTHJB?oc=5",
       "publishedAt": "Tue, 19 May 2026 12:58:05 GMT",
       "source": "EME Outlook Magazine"
-    },
-    {
-      "title": "Saudi AI Firm Humain Taps Goldman For $5.3 Billion Data-Center Plan - Finimize",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQazZGSm02WE1hX1BzRndhc3lWYTRZa1FDTjlGV3lDMEh4VHJ6YlFUQ2xma0pidXVXRDYtLUZQdkRTUlR6TGRBQk9pUE9QWDhwd3hTaUJSWG1DVjJTay11al9ndzJValVlMURnc0w0Mkt2d1gzWmxUOXhGbFctcDZmYU9TRDNIRnZkVnhsOEljRkFuVVUtTWZNMVJR?oc=5",
-      "publishedAt": "Tue, 19 May 2026 03:13:23 GMT",
-      "source": "Finimize"
     },
     {
       "title": "Accenture Expands Saudi AI Push Through HUMAIN Partnership - TradingView",
@@ -469,9 +463,9 @@
     "sentiment": "Neutral"
   },
   "metadata": {
-    "fetched_at": "2026-05-25T07:16:31.714225",
-    "fetch_duration_seconds": 1.296304,
+    "fetched_at": "2026-05-26T06:49:01.940408",
+    "fetch_duration_seconds": 1.794446,
     "openrouter_api_available": true,
-    "news_count": 7
+    "news_count": 6
   }
 }
