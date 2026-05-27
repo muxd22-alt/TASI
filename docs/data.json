@@ -1,8 +1,7 @@
 {
-  "timestamp": "2026-05-26T06:49:01.940396",
+  "timestamp": "2026-05-27T07:05:12.706310",
   "tasi": {
     "index": [
-      "2026-04-26",
       "2026-04-27",
       "2026-04-28",
       "2026-04-29",
@@ -24,7 +23,6 @@
       "2026-05-21"
     ],
     "open": [
-      11116.76953125,
       11136.5,
       11199.1298828125,
       11197.349609375,
@@ -46,7 +44,6 @@
       11001.509765625
     ],
     "high": [
-      11146.650390625,
       11200.6103515625,
       11223.1396484375,
       11241.48046875,
@@ -68,7 +65,6 @@
       11032.0703125
     ],
     "low": [
-      11072.76953125,
       11100.8701171875,
       11177.66015625,
       11179.83984375,
@@ -90,7 +86,6 @@
       10973.1298828125
     ],
     "close": [
-      11121.5595703125,
       11168.509765625,
       11179.9501953125,
       11238.0703125,
@@ -112,7 +107,6 @@
       11027.5400390625
     ],
     "volume": [
-      216685800,
       374521700,
       328687500,
       357324300,
@@ -135,152 +129,6 @@
     ]
   },
   "qqq": {
-    "index": [
-      "2026-04-23",
-      "2026-04-24",
-      "2026-04-27",
-      "2026-04-28",
-      "2026-04-29",
-      "2026-04-30",
-      "2026-05-01",
-      "2026-05-04",
-      "2026-05-05",
-      "2026-05-06",
-      "2026-05-07",
-      "2026-05-08",
-      "2026-05-11",
-      "2026-05-12",
-      "2026-05-13",
-      "2026-05-14",
-      "2026-05-15",
-      "2026-05-18",
-      "2026-05-19",
-      "2026-05-20",
-      "2026-05-21",
-      "2026-05-22"
-    ],
-    "open": [
-      653.5499877929688,
-      658.510009765625,
-      663.4000244140625,
-      657.4099731445312,
-      658.6300048828125,
-      665.3499755859375,
-      669.1599731445312,
-      674.6599731445312,
-      677.9600219726562,
-      687.780029296875,
-      696.5800170898438,
-      699.9199829101562,
-      710.3599853515625,
-      708.219970703125,
-      709.9600219726562,
-      714.6199951171875,
-      710.1400146484375,
-      711.5399780273438,
-      699.8099975585938,
-      705.2899780273438,
-      708.989990234375,
-      718.0700073242188
-    ],
-    "high": [
-      656.9199829101562,
-      664.510009765625,
-      664.4299926757812,
-      659.6400146484375,
-      661.719970703125,
-      668.9000244140625,
-      675.969970703125,
-      676.72998046875,
-      682.77001953125,
-      695.9299926757812,
-      701.239990234375,
-      711.22998046875,
-      714.5900268554688,
-      710.1799926757812,
-      716.6500244140625,
-      722.030029296875,
-      715.1300048828125,
-      712.0700073242188,
-      706.489990234375,
-      713.1500244140625,
-      717.1199951171875,
-      722.1199951171875
-    ],
-    "low": [
-      645.52001953125,
-      656.530029296875,
-      660.6900024414062,
-      653.8099975585938,
-      656.5900268554688,
-      657.5599975585938,
-      668.7999877929688,
-      668.9000244140625,
-      677.510009765625,
-      686.47998046875,
-      691.77001953125,
-      699.5,
-      708.9099731445312,
-      696.6400146484375,
-      704.8300170898438,
-      714.219970703125,
-      705.5499877929688,
-      698.8499755859375,
-      695.25,
-      703.7899780273438,
-      706.77001953125,
-      715.9500122070312
-    ],
-    "close": [
-      651.4199829101562,
-      663.8800048828125,
-      664.22998046875,
-      657.5499877929688,
-      661.5700073242188,
-      667.739990234375,
-      674.1500244140625,
-      672.8800048828125,
-      681.6099853515625,
-      695.77001953125,
-      694.9400024414062,
-      711.22998046875,
-      713.2899780273438,
-      707.239990234375,
-      714.7100219726562,
-      719.7899780273438,
-      708.9299926757812,
-      705.8800048828125,
-      701.530029296875,
-      713.1500244140625,
-      714.510009765625,
-      717.5399780273438
-    ],
-    "volume": [
-      40099800,
-      45563100,
-      32717000,
-      34147900,
-      31724900,
-      40622200,
-      39172600,
-      34542000,
-      37101100,
-      38778500,
-      43779100,
-      44320400,
-      36019100,
-      45873000,
-      40012500,
-      33327500,
-      51792700,
-      49834500,
-      46827500,
-      36779200,
-      36415400,
-      32999600
-    ]
-  },
-  "oil": {
     "index": [
       "2026-04-27",
       "2026-04-28",
@@ -305,6 +153,147 @@
       "2026-05-26"
     ],
     "open": [
+      663.4000244140625,
+      657.4099731445312,
+      658.6300048828125,
+      665.3499755859375,
+      669.1599731445312,
+      674.6599731445312,
+      677.9600219726562,
+      687.780029296875,
+      696.5800170898438,
+      699.9199829101562,
+      710.3599853515625,
+      708.219970703125,
+      709.9600219726562,
+      714.6199951171875,
+      710.1400146484375,
+      711.5399780273438,
+      699.8099975585938,
+      705.2899780273438,
+      708.989990234375,
+      718.0700073242188,
+      725.9600219726562
+    ],
+    "high": [
+      664.4299926757812,
+      659.6400146484375,
+      661.719970703125,
+      668.9000244140625,
+      675.969970703125,
+      676.72998046875,
+      682.77001953125,
+      695.9299926757812,
+      701.239990234375,
+      711.22998046875,
+      714.5900268554688,
+      710.1799926757812,
+      716.6500244140625,
+      722.030029296875,
+      715.1300048828125,
+      712.0700073242188,
+      706.489990234375,
+      713.1500244140625,
+      717.1199951171875,
+      722.1199951171875,
+      731.1699829101562
+    ],
+    "low": [
+      660.6900024414062,
+      653.8099975585938,
+      656.5900268554688,
+      657.5599975585938,
+      668.7999877929688,
+      668.9000244140625,
+      677.510009765625,
+      686.47998046875,
+      691.77001953125,
+      699.5,
+      708.9099731445312,
+      696.6400146484375,
+      704.8300170898438,
+      714.219970703125,
+      705.5499877929688,
+      698.8499755859375,
+      695.25,
+      703.7899780273438,
+      706.77001953125,
+      715.9500122070312,
+      724.1599731445312
+    ],
+    "close": [
+      664.22998046875,
+      657.5499877929688,
+      661.5700073242188,
+      667.739990234375,
+      674.1500244140625,
+      672.8800048828125,
+      681.6099853515625,
+      695.77001953125,
+      694.9400024414062,
+      711.22998046875,
+      713.2899780273438,
+      707.239990234375,
+      714.7100219726562,
+      719.7899780273438,
+      708.9299926757812,
+      705.8800048828125,
+      701.530029296875,
+      713.1500244140625,
+      714.510009765625,
+      717.5399780273438,
+      730.280029296875
+    ],
+    "volume": [
+      32717000,
+      34147900,
+      31724900,
+      40622200,
+      39172600,
+      34542000,
+      37101100,
+      38778500,
+      43779100,
+      44320400,
+      36019100,
+      45873000,
+      40012500,
+      33327500,
+      51792700,
+      49834500,
+      46827500,
+      36779200,
+      36415400,
+      33118600,
+      34068000
+    ]
+  },
+  "oil": {
+    "index": [
+      "2026-04-27",
+      "2026-04-28",
+      "2026-04-29",
+      "2026-04-30",
+      "2026-05-01",
+      "2026-05-04",
+      "2026-05-05",
+      "2026-05-06",
+      "2026-05-07",
+      "2026-05-08",
+      "2026-05-11",
+      "2026-05-12",
+      "2026-05-13",
+      "2026-05-14",
+      "2026-05-15",
+      "2026-05-18",
+      "2026-05-19",
+      "2026-05-20",
+      "2026-05-21",
+      "2026-05-22",
+      "2026-05-26",
+      "2026-05-27"
+    ],
+    "open": [
       106.5,
       108.30000305175781,
       111.01000213623047,
@@ -325,7 +314,8 @@
       111.20999908447266,
       105.20999908447266,
       104.5199966430664,
-      97.58999633789062
+      100.55000305175781,
+      96.38999938964844
     ],
     "high": [
       109.79000091552734,
@@ -348,7 +338,8 @@
       111.5,
       109.30999755859375,
       106.3499984741211,
-      97.58999633789062
+      100.75,
+      96.95999908447266
     ],
     "low": [
       105.8499984741211,
@@ -371,7 +362,8 @@
       103.27999877929688,
       102.16000366210938,
       101.37999725341797,
-      93.19999694824219
+      95.93000030517578,
+      94.55000305175781
     ],
     "close": [
       108.2300033569336,
@@ -394,7 +386,8 @@
       105.0199966430664,
       102.58000183105469,
       103.54000091552734,
-      95.2300033569336
+      99.58000183105469,
+      94.69000244140625
     ],
     "volume": [
       29439,
@@ -416,28 +409,23 @@
       29390,
       53332,
       51232,
-      51232,
-      19296
+      35039,
+      35039,
+      5127
     ]
   },
   "news": [
     {
-      "title": "Saudi AI firm hires Goldman Sachs for data centers financing package - report (GS:NYSE) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSkhrMjRHVnZ4a0V3UjVuc0ZnUHJMaUdzMlY1VnkwbVZEazRGc2hSUVJ6dlhvaGdaVTc4cXBWdzZWanl4RlVjYUhBSzN5U1JyYnNpei1xR2UybmNIWktkdmg5MXVVTU9DQlJUeWxPUFVNMm1TX2hXXzNPZmpiT2QzT19ScVVZaHlqaV9tVzlZZUpLSWVCRGFQcy1xZUdaNjg1TjlVM3hQaDBpRXNabHZTYVRMdGp0Zw?oc=5",
-      "publishedAt": "Tue, 19 May 2026 17:56:23 GMT",
-      "source": "Seeking Alpha"
+      "title": "Saudi AI firm hires Goldman Sachs for data centers financing package - report - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUWNEeGxPNnh6X2syT3pYZE51bVVzemxXcVc2cjExTFV0ZVpWWmpZV2ZaaVozLVdwZlI5U2tpaDVsQVBPbXRTR2NKQkR3U1FKUEJCeHVNUW5ZT0R1X0M0c2FrSy1GUWFCdmcyM0FUOGRtRDRrUU1mOTFHam43b09LckdYUUx1UjNOTlVpMWFBS3ZaMV9MZTJoWkozZnViUHRUWWNCWENWdmVMU3JzTWtHNVllYXE1aEVtT3puRUxTMTcyYUVYNC1fWg?oc=5",
+      "publishedAt": "Tue, 26 May 2026 18:29:12 GMT",
+      "source": "MSN"
     },
     {
-      "title": "IBM and Aramco Drive Saudi AI - EME Outlook Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4dmlrRGZiOGx0Y3E1dXBMSG10S2FNd1Z5RG9YNUxwLXBtRWlfTnU0WmYxZHlzeE8tUTZ1S2xoTjBOTjJfclEtS0FzZTlFTnZHWXhVcDYyRVJkZV84eHlwc0Y4ZGdOM2FLcU5TZWV6STZwSzFCXy1MTHJB?oc=5",
-      "publishedAt": "Tue, 19 May 2026 12:58:05 GMT",
-      "source": "EME Outlook Magazine"
-    },
-    {
-      "title": "Accenture Expands Saudi AI Push Through HUMAIN Partnership - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYVQ5TmxhRy1Ma01XLUJhSTg4NGx3ZTNFYml5T19WSDBKQUtSWWplNmJ4QXBhazRwQ3BxMlIxY181YXNuS2huOTBjOHNqQXVUV1VFRUwzd0p2UjRhNWZfcHZObi1PcXpsaEo4TmJqLVVLd2NCWFV2ZklNZzBwNjU2alVkWjlSdm85NTZoektCaUN4ZUNoNFZtcm5obzZ4UERVTFB6WVI2ZjV4Z2g1dnFJcWZLblg0cmJ2akE?oc=5",
-      "publishedAt": "Wed, 20 May 2026 18:23:01 GMT",
-      "source": "TradingView"
+      "title": "Accenture Expands Saudi AI Push Through HUMAIN Partnership - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNck8yZHVFallrb2hhS1NTbmxJSGNHQktxVnVVWlR1YThDT0ZKTTlVQTdsQks1SG45YU9nVDYxT2xmSEx5aDNrS3FCMXBEdjhHaThuVGlxVTBaN25TVjB3bGt1cWxOdVBnSVhhc1pWcWp4SDBZMm10MWlDMDhsOVl3MGdOc3VNeHlFbEVtOVVMZlNjckNEblB2OTBvRzJCcFVNNHB5Q0RzS21PT05TOGc?oc=5",
+      "publishedAt": "Wed, 20 May 2026 18:42:40 GMT",
+      "source": "GuruFocus"
     },
     {
       "title": "HUMAIN names Accenture as Strategic Reinvention & AI Partner in Saudi market - Consultancy-me.com",
@@ -446,16 +434,28 @@
       "source": "Consultancy-me.com"
     },
     {
-      "title": "Saudi AI Firm Taps Goldman for Data Centre Deal - Finance News Network",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWk1uYVU5SzM5NnVMZTBzX2lOT2JZRUVOOFdaelhUVWNnbWhZZ1ZGZzlHWEp5Q2dOOHVDNWY4dTJ1MnN6NlVpQ1BUV3locjZBUF85VXZxZE5KM2RBT2o2YWFSaDBSTkF4dlRMaUZpX1M3alQwbDBzQWdRVWtrRWJjYg?oc=5",
-      "publishedAt": "Tue, 19 May 2026 22:03:49 GMT",
-      "source": "Finance News Network"
+      "title": "Humain selects Goldman Sachs to arrange SAR 20 bln financing for data centres - report - Telecompaper",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTnNlY3dnbjZmN2NXbWFXTVRDczFBVE5EVU1NWmdDeWVEdmdGRWxrMi12UXkwVWxvT1lMSnk1YnN3eUIyTjk3WVlqYlVHZ216cGFwYUNvLVJMakc0ZUxSeWRIbDhnck5jLTNfcE5uWDV0Z1B1Q0xCck5Obnk2Q0p5TmdjVUFTTDdIX2dkMGVCSWZxX1pMb1RaZ0kwaXpJRktaR1NPQldTenFyNk43VzhPRUg2aXh0VndvUVVzWVN0b2d0Z19DZ3c?oc=5",
+      "publishedAt": "Wed, 20 May 2026 09:17:26 GMT",
+      "source": "Telecompaper"
     },
     {
       "title": "HUMAIN and McKinsey to collaborate on delivering AI transformations in Saudi Arabia - Consultancy-me.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZnNLX2ZqQ21wZThPUHRWTXpZZ21GTWVxZW5EcWx5N0FDdl9seUpjQ0JYdVEybEppbFAwWVFya3BZRmcydUxOQW9FYkdtV2NaZVU5MHpwODJPc2VKNmZ3cU1xNzFuYzU4MU1yeFF0c2FWdEtkUGdEdkJrd3VoVGFQblNDTklybURUV014QV9IbzBoQjBxS2tibGx3ZnJJSzZua3J6aVFtenRDMDdRUVp0bF9qQlR1RUk4SmQxWTdvd0pBUUnSAcgBQVVfeXFMTmlGdHAxRXZmdU5SbFhtczJJQmdQajh3bzBUY2RHOVVnVWRWLUxMRl95cDgybEJEMGhwLW54MUYzeE5KWndZRnd2SV9hRVBCbzBtOXctZlNyRDNQV0pZSmtPNF9sbm8wZkktQlV4RXMzMlV4cTVHMk1qM1FqWXJVRG9TYVI2bmJ2VHU0NnlzcnZvU05wZDZ0Q3pMRTZxWXMtRkpUOEg5OFd4aklrUGhMOUJPNW5XVGdOamp2bnZoOUVSSVpacUVnUmE?oc=5",
       "publishedAt": "Thu, 21 May 2026 08:59:50 GMT",
       "source": "Consultancy-me.com"
+    },
+    {
+      "title": "What Tarmeez Capital’s IE University Deal Says About Saudi Fintech’s Talent Problem - waya.media",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLXpfa01qZFV6ZzlUa3FOcC03alFJenpmLUFGQTk4amtPMXR4VVZxM1J5b0hNcVZJY3NYdnhFMDh1MXR4cm9QQjZCSFNCNzhERlM3S2F5QnpBenlRanRXaDlzb3V3VUprT0lJcWRVUG9hU0tMbElsb19yRlhVQmRvUmJOakdTblpiaUNWalVkRDJYUWdXS0twVEVuMTh0Q1hUX1hv?oc=5",
+      "publishedAt": "Wed, 20 May 2026 07:40:49 GMT",
+      "source": "waya.media"
+    },
+    {
+      "title": "Saudi Arabia Artificial Intelligence Market: AI Adoption, Digital Transformation & Growth Outlook - vocal.media",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPelJzWVptQUxGdC1OMDBYXzJNa095My0wLUdyUFlHdTQzVy1wX0o3cnBwaExoYjBaWlQ4NnJOcVZIZEVPMHk4MUJEalV2bE4zalVickxSV2hHcnpiaGlzRk11SjhTaVNCOW05Y2M5R2hHQldBQWFZajB5ZUhybG5SdldYcGpscHVlRXkyNXdOZFRmLXgtT0Iwam5QTk5HN3dIeDVDZWt6MzVnckZtblNpZ0NDWV9faFFSUVBEbXFvcHJFRENW?oc=5",
+      "publishedAt": "Fri, 22 May 2026 15:20:09 GMT",
+      "source": "vocal.media"
     }
   ],
   "ai_analysis": {
@@ -463,9 +463,9 @@
     "sentiment": "Neutral"
   },
   "metadata": {
-    "fetched_at": "2026-05-26T06:49:01.940408",
-    "fetch_duration_seconds": 1.794446,
+    "fetched_at": "2026-05-27T07:05:12.706316",
+    "fetch_duration_seconds": 1.346304,
     "openrouter_api_available": true,
-    "news_count": 6
+    "news_count": 7
   }
 }
