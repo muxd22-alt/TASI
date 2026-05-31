@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-30T06:25:09.518791",
+  "timestamp": "2026-05-31T06:59:24.093258",
   "tasi": {
     "index": [
       "2026-04-28",
@@ -307,7 +307,7 @@
       100.55000305175781,
       99.4000015258789,
       94.97000122070312,
-      93.37000274658203
+      92.66999816894531
     ],
     "high": [
       126.0999984741211,
@@ -330,7 +330,7 @@
       100.75,
       99.86000061035156,
       98.16000366210938,
-      94.01000213623047
+      92.88999938964844
     ],
     "low": [
       113.0,
@@ -353,7 +353,7 @@
       95.93000030517578,
       94.1500015258789,
       92.55999755859375,
-      91.45999908447266
+      89.94000244140625
     ],
     "close": [
       114.01000213623047,
@@ -376,7 +376,7 @@
       99.58000183105469,
       94.29000091552734,
       93.70999908447266,
-      92.05000305175781
+      91.12000274658203
     ],
     "volume": [
       58572,
@@ -399,16 +399,10 @@
       37926,
       20553,
       9881,
-      9881
+      38381
     ]
   },
   "news": [
-    {
-      "title": "Saudi AI firm hires Goldman Sachs for data centers financing package - report - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUWNEeGxPNnh6X2syT3pYZE51bVVzemxXcVc2cjExTFV0ZVpWWmpZV2ZaaVozLVdwZlI5U2tpaDVsQVBPbXRTR2NKQkR3U1FKUEJCeHVNUW5ZT0R1X0M0c2FrSy1GUWFCdmcyM0FUOGRtRDRrUU1mOTFHam43b09LckdYUUx1UjNOTlVpMWFBS3ZaMV9MZTJoWkozZnViUHRUWWNCWENWdmVMU3JzTWtHNVllYXE1aEVtT3puRUxTMTcyYUVYNC1fWg?oc=5",
-      "publishedAt": "Tue, 26 May 2026 18:29:12 GMT",
-      "source": "MSN"
-    },
     {
       "title": "Saudi AI authority activates 89 digital, security sites for smooth Hajj operations - | Associated Press Of Pakistan",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ2toTjlKY0M5Q2hpeWNIeXpCT3lmNlpMY0trT0s1NTh4YXF5clg5ZWtVVjctcGhQT1NkZjBnZ1pFUmFLN0QtSG45WmxEbWdoZXctRkhSZk5uTHR2cUpQbUlhdmoxRVhXMmQtY2xUdkhsc3JLSDVWS1dnSWNnUmdVS3lzdUJBbUx0bHlBUVREYkFpRVktZk5YczZER2dRMkl2Mlo1RFIydjh3bnp2Y2dHdlptNkg?oc=5",
@@ -421,9 +415,9 @@
     "sentiment": "Neutral"
   },
   "metadata": {
-    "fetched_at": "2026-05-30T06:25:09.518799",
-    "fetch_duration_seconds": 2.608842,
+    "fetched_at": "2026-05-31T06:59:24.093269",
+    "fetch_duration_seconds": 1.308558,
     "openrouter_api_available": true,
-    "news_count": 2
+    "news_count": 1
   }
 }
