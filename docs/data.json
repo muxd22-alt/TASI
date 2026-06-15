@@ -1,8 +1,7 @@
 {
-  "timestamp": "2026-06-14T07:24:16.621638",
+  "timestamp": "2026-06-15T09:24:16.267065",
   "tasi": {
     "index": [
-      "2026-05-14",
       "2026-05-17",
       "2026-05-18",
       "2026-05-19",
@@ -18,10 +17,9 @@
       "2026-06-09",
       "2026-06-10",
       "2026-06-11",
-      "2026-06-14"
+      "2026-06-15"
     ],
     "open": [
-      11038.3095703125,
       10994.3203125,
       10960.91015625,
       10956.4697265625,
@@ -37,10 +35,9 @@
       10985.349609375,
       11115.48046875,
       11009.41015625,
-      11090.6103515625
+      11156.3798828125
     ],
     "high": [
-      11067.8603515625,
       10996.4599609375,
       11001.01953125,
       10988.9599609375,
@@ -56,10 +53,9 @@
       11115.3701171875,
       11115.7099609375,
       11042.01953125,
-      11125.7001953125
+      11159.4599609375
     ],
     "low": [
-      10992.759765625,
       10946.51953125,
       10933.5302734375,
       10944.330078125,
@@ -75,10 +71,9 @@
       10982.0703125,
       11008.2001953125,
       10995.98046875,
-      11088.669921875
+      11117.2197265625
     ],
     "close": [
-      10995.4404296875,
       10967.9404296875,
       10956.099609375,
       10982.2998046875,
@@ -94,10 +89,9 @@
       11115.3701171875,
       11012.6396484375,
       11042.01953125,
-      11116.83984375
+      11121.919921875
     ],
     "volume": [
-      275784000,
       158925700,
       214514800,
       245880100,
@@ -113,7 +107,7 @@
       315723200,
       237686800,
       214080800,
-      30567994
+      170511963
     ]
   },
   "qqq": {
@@ -264,7 +258,6 @@
   },
   "oil": {
     "index": [
-      "2026-05-14",
       "2026-05-15",
       "2026-05-18",
       "2026-05-19",
@@ -284,10 +277,10 @@
       "2026-06-09",
       "2026-06-10",
       "2026-06-11",
-      "2026-06-12"
+      "2026-06-12",
+      "2026-06-15"
     ],
     "open": [
-      105.63999938964844,
       106.56999969482422,
       109.61000061035156,
       109.55000305175781,
@@ -307,10 +300,10 @@
       94.33999633789062,
       92.26000213623047,
       94.87999725341797,
-      89.2300033569336
+      89.2300033569336,
+      85.0199966430664
     ],
     "high": [
-      107.08000183105469,
       109.7300033569336,
       112.69000244140625,
       111.79000091552734,
@@ -330,10 +323,10 @@
       94.5199966430664,
       94.7300033569336,
       96.36000061035156,
-      89.87000274658203
+      89.87000274658203,
+      85.29000091552734
     ],
     "low": [
-      103.86000061035156,
       106.05000305175781,
       106.87000274658203,
       108.9000015258789,
@@ -353,10 +346,10 @@
       89.58999633789062,
       90.79000091552734,
       88.4000015258789,
-      85.80000305175781
+      85.80000305175781,
+      82.54000091552734
     ],
     "close": [
-      105.72000122070312,
       109.26000213623047,
       112.0999984741211,
       111.27999877929688,
@@ -376,10 +369,10 @@
       91.44999694824219,
       93.0999984741211,
       90.37999725341797,
-      87.33000183105469
+      87.33000183105469,
+      82.94000244140625
     ],
     "volume": [
-      27529,
       26518,
       46404,
       29390,
@@ -399,7 +392,8 @@
       42857,
       39760,
       46406,
-      33223
+      46406,
+      9792
     ]
   },
   "news": [
@@ -416,16 +410,16 @@
       "source": "Asharq Al-Awsat English"
     },
     {
+      "title": "Saudi AI adoption among businesses rises to 33% in 2025: GASTAT - Arab News PK",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IMG9JdFctdm96RFhIVlhWUl9CWE9pYzZVV2VJUVRuRWxtMVdjdGN2cU1wZ1AzT19ZRjg5eXhiTnBtQjhIY1NBUmtNREtyTldGMmxneHJwUGRyS2pLLThxTFZkSQ?oc=5",
+      "publishedAt": "Sun, 14 Jun 2026 07:07:00 GMT",
+      "source": "Arab News PK"
+    },
+    {
       "title": "10 startups selected for AI and deep tech accelerator program in Saudi Arabia - Jawlah",
       "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE05c1BBWmhUSVdrYUdPbnFyVGctU3VBYkR2R1NFQmJjQVg5RUdrS3phUFd1SjBKc1U4VWtqalBPYw?oc=5",
       "publishedAt": "Wed, 10 Jun 2026 20:58:01 GMT",
       "source": "Jawlah"
-    },
-    {
-      "title": "Humain, Nvidia bring robotaxi-ready platform to Middle East - Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNME5aaDhCZlVabjdHQnkwQ3FPNHNJYWJRUnNuRV8ycVlOV1VwdU54dHI4VFZsMWpPQS1PTVNCZjI4UC1CLS1DZ0c4LThtXzdHUGkyVjNncjZGaHpaYlJtNUdjNXpteUdnaThtU1R1a2pNWFdkemRWQ3JlWDZad0FjMkVYczlTYnh6cDZLYTlMb3lzdjlzRHFIMmFsOXlNSW9DS0R3?oc=5",
-      "publishedAt": "Thu, 11 Jun 2026 11:27:38 GMT",
-      "source": "Telecompaper"
     },
     {
       "title": "Informations sur la communauté et sentiment du marché ##saudikuwaitfundsorderspacexipo | Binance Square - Binance",
@@ -439,8 +433,8 @@
     "sentiment": "Neutral"
   },
   "metadata": {
-    "fetched_at": "2026-06-14T07:24:16.621650",
-    "fetch_duration_seconds": 1.281233,
+    "fetched_at": "2026-06-15T09:24:16.267075",
+    "fetch_duration_seconds": 0.895394,
     "openrouter_api_available": true,
     "news_count": 5
   }
