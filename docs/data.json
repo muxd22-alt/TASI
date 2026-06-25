@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-24T06:50:36.137506",
+  "timestamp": "2026-06-25T06:49:32.710815",
   "tasi": {
     "index": [
       "2026-05-31",
@@ -125,7 +125,8 @@
       "2026-06-17",
       "2026-06-18",
       "2026-06-22",
-      "2026-06-23"
+      "2026-06-23",
+      "2026-06-24"
     ],
     "open": [
       725.1631283460116,
@@ -147,7 +148,8 @@
       734.38293083454,
       736.390778085872,
       742.02001953125,
-      715.739990234375
+      715.739990234375,
+      715.3699951171875
     ],
     "high": [
       730.3673702569255,
@@ -169,7 +171,8 @@
       734.8723831709506,
       741.005701773832,
       745.4500122070312,
-      723.6099853515625
+      723.6099853515625,
+      719.9299926757812
     ],
     "low": [
       723.3650554496121,
@@ -191,7 +194,8 @@
       720.058646070882,
       731.7059239216511,
       734.3900146484375,
-      712.1099853515625
+      712.1099853515625,
+      704.4500122070312
     ],
     "close": [
       729.4783935546875,
@@ -213,7 +217,8 @@
       721.7168579101562,
       739.8070068359375,
       737.9500122070312,
-      713.6500244140625
+      713.6500244140625,
+      710.6199951171875
     ],
     "volume": [
       34254700,
@@ -235,7 +240,8 @@
       51669300,
       50154600,
       43518600,
-      52901800
+      53354200,
+      52179200
     ]
   },
   "oil": {
@@ -260,7 +266,8 @@
       "2026-06-18",
       "2026-06-22",
       "2026-06-23",
-      "2026-06-24"
+      "2026-06-24",
+      "2026-06-25"
     ],
     "open": [
       100.55000305175781,
@@ -283,7 +290,8 @@
       78.3499984741211,
       82.20999908447266,
       78.05999755859375,
-      77.0
+      77.0,
+      73.0999984741211
     ],
     "high": [
       100.75,
@@ -306,7 +314,8 @@
       80.04000091552734,
       82.37999725341797,
       78.33999633789062,
-      77.0
+      77.0,
+      73.51000213623047
     ],
     "low": [
       95.93000030517578,
@@ -329,7 +338,8 @@
       76.58000183105469,
       77.2699966430664,
       76.44000244140625,
-      75.94999694824219
+      73.08000183105469,
+      72.2699966430664
     ],
     "close": [
       99.58000183105469,
@@ -352,7 +362,8 @@
       79.8499984741211,
       77.9000015258789,
       77.08000183105469,
-      76.33999633789062
+      73.73999786376953,
+      72.66999816894531
     ],
     "volume": [
       37926,
@@ -374,19 +385,39 @@
       25919,
       31186,
       46574,
-      46574,
-      1867
+      22797,
+      22797,
+      2407
     ]
   },
-  "news": [],
+  "news": [
+    {
+      "title": "PIF-backed Humain, stc extend MoU for Saudi AI data center venture - Arab News",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XbVJvSDZBcVVVc0g4bnJKV2tEVjh3ZEczMEZUTlhJRWNQSDlaUTU2U1ZPMmFwX2xMY3I4OTBWbDdWUjVmWXFpRFV3WWxmbThpVUoxZERPN09Fa0NoWXRaVUt5UUQ?oc=5",
+      "publishedAt": "Thu, 18 Jun 2026 10:25:16 GMT",
+      "source": "Arab News"
+    },
+    {
+      "title": "stc extends Humain MoU for AI data center venture - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbDR3Zm9CRW45VVFqdGV5dXFka2RkX2MzdUpNMndrbmZBYjJuWWxpLUNBekRkWFdkVlBadEZIX19COHdQLUd4NVI3WkVBNXphMHRTd0h4bjYwUUFzU0FacElVZHZlbl9FcmxWeTdiSm91LTE1RmEwX19MNzI0Tl9tdTQ1U2RPR0pQQUJUVGxocHViem1vbUE?oc=5",
+      "publishedAt": "Thu, 18 Jun 2026 10:33:00 GMT",
+      "source": "Let's Data Science"
+    },
+    {
+      "title": "Saudi platform Revora raises $2 million in seed round - جولة",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBLLV8tTFY5YWJZY0hoenU2TDZfM2xTVmFta0d5TXU3SGtBTjBqWkVLTVhxaTU4TndjcjBmSkhoWQ?oc=5",
+      "publishedAt": "Wed, 24 Jun 2026 12:37:46 GMT",
+      "source": "جولة"
+    }
+  ],
   "ai_analysis": {
     "summary": "AI summary not generated.",
     "sentiment": "Neutral"
   },
   "metadata": {
-    "fetched_at": "2026-06-24T06:50:36.137515",
-    "fetch_duration_seconds": 10.042776,
+    "fetched_at": "2026-06-25T06:49:32.710827",
+    "fetch_duration_seconds": 0.853559,
     "openrouter_api_available": true,
-    "news_count": 0
+    "news_count": 3
   }
 }
