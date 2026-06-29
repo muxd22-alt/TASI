@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-28T07:03:29.233143",
+  "timestamp": "2026-06-29T08:14:14.391376",
   "tasi": {
     "index": [
       "2026-05-31",
@@ -21,7 +21,8 @@
       "2026-06-22",
       "2026-06-23",
       "2026-06-24",
-      "2026-06-25"
+      "2026-06-25",
+      "2026-06-29"
     ],
     "open": [
       11077.91015625,
@@ -43,7 +44,8 @@
       11082.900390625,
       11067.099609375,
       11016.5400390625,
-      10987.1904296875
+      10987.1904296875,
+      10905.51953125
     ],
     "high": [
       11077.91015625,
@@ -65,7 +67,8 @@
       11084.3095703125,
       11074.1796875,
       11072.2001953125,
-      10994.7802734375
+      10994.7802734375,
+      10918.3798828125
     ],
     "low": [
       11077.91015625,
@@ -87,7 +90,8 @@
       11052.740234375,
       11022.6796875,
       11006.7998046875,
-      10933.23046875
+      10933.23046875,
+      10841.25
     ],
     "close": [
       11077.91015625,
@@ -109,7 +113,8 @@
       11072.400390625,
       11033.990234375,
       11006.7998046875,
-      10933.23046875
+      10933.23046875,
+      10851.349609375
     ],
     "volume": [
       206871400,
@@ -131,7 +136,8 @@
       179885800,
       201806800,
       241849700,
-      207566900
+      207566900,
+      58809308
     ]
   },
   "qqq": {
@@ -282,7 +288,6 @@
   },
   "oil": {
     "index": [
-      "2026-05-28",
       "2026-05-29",
       "2026-06-01",
       "2026-06-02",
@@ -302,10 +307,10 @@
       "2026-06-23",
       "2026-06-24",
       "2026-06-25",
-      "2026-06-26"
+      "2026-06-26",
+      "2026-06-29"
     ],
     "open": [
-      94.97000122070312,
       93.37000274658203,
       92.41000366210938,
       95.4000015258789,
@@ -325,10 +330,10 @@
       78.05999755859375,
       77.0,
       73.0999984741211,
-      75.0199966430664
+      74.94000244140625,
+      73.5999984741211
     ],
     "high": [
-      98.16000366210938,
       94.01000213623047,
       97.80000305175781,
       96.26000213623047,
@@ -348,10 +353,10 @@
       78.33999633789062,
       77.0,
       75.83999633789062,
-      75.45999908447266
+      75.12000274658203,
+      73.97000122070312
     ],
     "low": [
-      92.55999755859375,
       91.45999908447266,
       92.37000274658203,
       92.81999969482422,
@@ -371,10 +376,10 @@
       76.44000244140625,
       73.08000183105469,
       72.08000183105469,
-      71.94999694824219
+      71.4000015258789,
+      72.58000183105469
     ],
     "close": [
-      93.70999908447266,
       92.05000305175781,
       94.9800033569336,
       96.0,
@@ -394,10 +399,10 @@
       77.08000183105469,
       73.73999786376953,
       75.26000213623047,
-      72.5999984741211
+      71.98999786376953,
+      72.80999755859375
     ],
     "volume": [
-      9881,
       39308,
       57796,
       40210,
@@ -417,10 +422,17 @@
       22797,
       32834,
       27477,
-      40760
+      27477,
+      5022
     ]
   },
   "news": [
+    {
+      "title": "Saudi AI Startup Revora Raises $2 Million Seed Round - CairoScene",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcUJoTWRCcE9jTUNUODdzdEp4aTA4V0VMM0c5cG82SnNIOU5hOWJITldqeHJreVc0b1ZXWXJwc2F1UTJBU2ZhVlZqaU9KXzh2bTR1VjYzdFB5eGEtWW9fTlNnUHpDWkQzTExKN1U5cEVUQjIxZ082NUVaa3VJX0k5OHZjWFh2dWUwdFpv?oc=5",
+      "publishedAt": "Thu, 25 Jun 2026 10:19:39 GMT",
+      "source": "CairoScene"
+    },
     {
       "title": "Saudi AI E-Commerce Startup Revora Raises USD 2M to Scale Across the Kingdom - waya.media",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTjZ0U1ZMOFZfZThlcndnaXJBWXc0N0wwZHRxdkMxXzN5ckpteXNad3B0ZlZGTE1xcXZrX2Y1cW9ZQWgwQUJzNExNSW40Rl9mNnRsa0FEWUtwVlRPWloxanhZa0hMT29CSlhJZHltM3NkWXFoTWNrU2tEZGJyd19hNDVkalFhR2pTUzNoLUtzc09LQlI5bWx3ZTNmcXA?oc=5",
@@ -428,10 +440,10 @@
       "source": "waya.media"
     },
     {
-      "title": "Saudi AI Startup Revora Raises $2 Million Seed Round - CairoScene",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcUJoTWRCcE9jTUNUODdzdEp4aTA4V0VMM0c5cG82SnNIOU5hOWJITldqeHJreVc0b1ZXWXJwc2F1UTJBU2ZhVlZqaU9KXzh2bTR1VjYzdFB5eGEtWW9fTlNnUHpDWkQzTExKN1U5cEVUQjIxZ082NUVaa3VJX0k5OHZjWFh2dWUwdFpv?oc=5",
-      "publishedAt": "Thu, 25 Jun 2026 10:19:39 GMT",
-      "source": "CairoScene"
+      "title": "Saudi AI Team Wins Six Awards at Asia-Pacific Olympiad in Artificial Intelligence - وكالة الأنباء السعودية",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBERnEzaFZ4MU9pY01mQXBzUlFyQ0JsXzlnenlVUEplcHk3eHR4X0VZcGVhOU54ei1FM1FaRWhJX1ktTjA3Q0xHQWl3?oc=5",
+      "publishedAt": "Sun, 28 Jun 2026 18:51:10 GMT",
+      "source": "وكالة الأنباء السعودية"
     },
     {
       "title": "Saudi platform Revora raises $2 million in seed round - جولة",
@@ -442,7 +454,7 @@
     {
       "title": "Keiretsu Forum MENA Partners With FinBursa to Digitise Investments - CairoScene",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZFBUMFpjb0FSWHdYYnIxLXlVdnhYZ2JwR2lvRTVkUlVsQWQ0ZTBKWGhnWkRQZ3liZ192Smc4NzBYRnQ0OEZLeXRxMTY4UGhkVU5QOXZrTlFYRmN1LUFjRTBLYVBEVTlwX0Z2YjJkWDlkUXk1YWFRZm8xODZGMmhpalFjc2hMTDVNUFlWRHNDMDVDVTVJdGMzWDJaeEVCYUU?oc=5",
-      "publishedAt": "Thu, 25 Jun 2026 09:44:39 GMT",
+      "publishedAt": "Sun, 28 Jun 2026 07:28:52 GMT",
       "source": "CairoScene"
     }
   ],
@@ -451,9 +463,9 @@
     "sentiment": "Neutral"
   },
   "metadata": {
-    "fetched_at": "2026-06-28T07:03:29.233152",
-    "fetch_duration_seconds": 0.753532,
+    "fetched_at": "2026-06-29T08:14:14.391385",
+    "fetch_duration_seconds": 0.831784,
     "openrouter_api_available": true,
-    "news_count": 4
+    "news_count": 5
   }
 }
