@@ -1,8 +1,7 @@
 {
-  "timestamp": "2026-06-30T06:56:55.105350",
+  "timestamp": "2026-07-01T07:13:07.631849",
   "tasi": {
     "index": [
-      "2026-05-31",
       "2026-06-01",
       "2026-06-02",
       "2026-06-03",
@@ -24,7 +23,6 @@
       "2026-06-25"
     ],
     "open": [
-      11077.91015625,
       11062.1103515625,
       11022.3203125,
       11023.830078125,
@@ -46,7 +44,6 @@
       10987.1904296875
     ],
     "high": [
-      11077.91015625,
       11083.51953125,
       11050.4697265625,
       11047.5302734375,
@@ -68,7 +65,6 @@
       10994.7802734375
     ],
     "low": [
-      11077.91015625,
       11009.51953125,
       10991.009765625,
       10975.9599609375,
@@ -90,7 +86,6 @@
       10933.23046875
     ],
     "close": [
-      11077.91015625,
       11009.51953125,
       11015.5498046875,
       11002.0400390625,
@@ -112,7 +107,6 @@
       10933.23046875
     ],
     "volume": [
-      206871400,
       388374700,
       299614900,
       229489100,
@@ -155,7 +149,8 @@
       "2026-06-24",
       "2026-06-25",
       "2026-06-26",
-      "2026-06-29"
+      "2026-06-29",
+      "2026-06-30"
     ],
     "open": [
       736.2309273283665,
@@ -177,7 +172,8 @@
       715.3699951171875,
       725.9000244140625,
       707.1300048828125,
-      713.989990234375
+      713.989990234375,
+      724.1799926757812
     ],
     "high": [
       744.8315224447946,
@@ -199,7 +195,8 @@
       719.9299926757812,
       726.8300170898438,
       715.5599975585938,
-      724.5800170898438
+      724.5800170898438,
+      737.6199951171875
     ],
     "low": [
       735.1820921097265,
@@ -221,7 +218,8 @@
       704.4500122070312,
       705.2999877929688,
       702.8099975585938,
-      705.1699829101562
+      705.1699829101562,
+      723.9099731445312
     ],
     "close": [
       741.9246826171875,
@@ -243,7 +241,8 @@
       710.6199951171875,
       716.3800048828125,
       706.52001953125,
-      724.0800170898438
+      724.0800170898438,
+      736.4000244140625
     ],
     "volume": [
       33890600,
@@ -265,7 +264,8 @@
       52480400,
       49668000,
       47081800,
-      44565100
+      44939100,
+      41926000
     ]
   },
   "oil": {
@@ -290,7 +290,8 @@
       "2026-06-25",
       "2026-06-26",
       "2026-06-29",
-      "2026-06-30"
+      "2026-06-30",
+      "2026-07-01"
     ],
     "open": [
       92.41000366210938,
@@ -313,7 +314,8 @@
       73.0999984741211,
       74.94000244140625,
       73.16999816894531,
-      73.6500015258789
+      72.69999694824219,
+      73.37999725341797
     ],
     "high": [
       97.80000305175781,
@@ -336,7 +338,8 @@
       75.83999633789062,
       75.12000274658203,
       73.4800033569336,
-      74.05999755859375
+      73.52999877929688,
+      73.5199966430664
     ],
     "low": [
       92.37000274658203,
@@ -359,7 +362,8 @@
       72.08000183105469,
       71.4000015258789,
       71.87000274658203,
-      73.05999755859375
+      72.12000274658203,
+      72.93000030517578
     ],
     "close": [
       94.9800033569336,
@@ -382,7 +386,8 @@
       75.26000213623047,
       71.98999786376953,
       73.1500015258789,
-      73.27999877929688
+      72.91999816894531,
+      73.05000305175781
     ],
     "volume": [
       57796,
@@ -404,8 +409,9 @@
       32834,
       27477,
       19425,
-      19425,
-      3030
+      8613,
+      8613,
+      1897
     ]
   },
   "news": [
@@ -428,9 +434,9 @@
       "source": "وكالة الأنباء السعودية"
     },
     {
-      "title": "Commemorative AI Postage Stamp Marks Saudi Arabia's Year of AI - CairoScene",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaUFaV1NZY1NMOXlteXBaYUt4NWtxd255S0FtWjJRcXJmZk9CQjE1NVpTbzEtYlhMU29IWVp0WUxZbXdUZVZwdEVRdi13WlFhS2hhc1B3eWZDX0Z2SVhYei16T3lPWmVzbFZwTkZUVUpTbzg3SlM1SXRVVEY3RUl2NGE3TEFralJaRnMzdGEtOS1nSmpL?oc=5",
-      "publishedAt": "Mon, 29 Jun 2026 03:50:28 GMT",
+      "title": "Keiretsu Forum MENA Partners With FinBursa to Digitise Investments - CairoScene",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZFBUMFpjb0FSWHdYYnIxLXlVdnhYZ2JwR2lvRTVkUlVsQWQ0ZTBKWGhnWkRQZ3liZ192Smc4NzBYRnQ0OEZLeXRxMTY4UGhkVU5QOXZrTlFYRmN1LUFjRTBLYVBEVTlwX0Z2YjJkWDlkUXk1YWFRZm8xODZGMmhpalFjc2hMTDVNUFlWRHNDMDVDVTVJdGMzWDJaeEVCYUU?oc=5",
+      "publishedAt": "Thu, 25 Jun 2026 09:43:10 GMT",
       "source": "CairoScene"
     },
     {
@@ -440,9 +446,9 @@
       "source": "eTurboNews"
     },
     {
-      "title": "Keiretsu Forum MENA Partners With FinBursa to Digitise Investments - CairoScene",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZFBUMFpjb0FSWHdYYnIxLXlVdnhYZ2JwR2lvRTVkUlVsQWQ0ZTBKWGhnWkRQZ3liZ192Smc4NzBYRnQ0OEZLeXRxMTY4UGhkVU5QOXZrTlFYRmN1LUFjRTBLYVBEVTlwX0Z2YjJkWDlkUXk1YWFRZm8xODZGMmhpalFjc2hMTDVNUFlWRHNDMDVDVTVJdGMzWDJaeEVCYUU?oc=5",
-      "publishedAt": "Sun, 28 Jun 2026 07:28:52 GMT",
+      "title": "Commemorative AI Postage Stamp Marks Saudi Arabia's Year of AI - CairoScene",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaUFaV1NZY1NMOXlteXBaYUt4NWtxd255S0FtWjJRcXJmZk9CQjE1NVpTbzEtYlhMU29IWVp0WUxZbXdUZVZwdEVRdi13WlFhS2hhc1B3eWZDX0Z2SVhYei16T3lPWmVzbFZwTkZUVUpTbzg3SlM1SXRVVEY3RUl2NGE3TEFralJaRnMzdGEtOS1nSmpL?oc=5",
+      "publishedAt": "Mon, 29 Jun 2026 03:50:28 GMT",
       "source": "CairoScene"
     }
   ],
@@ -451,8 +457,8 @@
     "sentiment": "Neutral"
   },
   "metadata": {
-    "fetched_at": "2026-06-30T06:56:55.105359",
-    "fetch_duration_seconds": 1.67981,
+    "fetched_at": "2026-07-01T07:13:07.631855",
+    "fetch_duration_seconds": 0.916719,
     "openrouter_api_available": true,
     "news_count": 6
   }
