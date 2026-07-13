@@ -1,10 +1,7 @@
 {
-  "timestamp": "2026-07-12T06:05:25.681093",
+  "timestamp": "2026-07-13T06:21:17.365208",
   "tasi": {
     "index": [
-      "2026-06-09",
-      "2026-06-10",
-      "2026-06-11",
       "2026-06-14",
       "2026-06-15",
       "2026-06-16",
@@ -19,12 +16,14 @@
       "2026-06-29",
       "2026-06-30",
       "2026-07-01",
-      "2026-07-02"
+      "2026-07-02",
+      "2026-07-05",
+      "2026-07-06",
+      "2026-07-07",
+      "2026-07-08",
+      "2026-07-09"
     ],
     "open": [
-      10985.349609375,
-      11115.48046875,
-      11009.41015625,
       11090.6103515625,
       11156.3798828125,
       11106.76953125,
@@ -39,12 +38,14 @@
       10905.51953125,
       10791.990234375,
       10804.900390625,
-      10858.4697265625
+      10858.4697265625,
+      10830.9296875,
+      10804.580078125,
+      10817.490234375,
+      10842.400390625,
+      10853.2001953125
     ],
     "high": [
-      11115.3701171875,
-      11115.7099609375,
-      11042.01953125,
       11137.490234375,
       11159.4599609375,
       11172.150390625,
@@ -59,12 +60,14 @@
       10918.3798828125,
       10819.4697265625,
       10879.8203125,
-      10868.1103515625
+      10868.1103515625,
+      10837.6396484375,
+      10839.8896484375,
+      10852.41015625,
+      10854.919921875,
+      10854.0498046875
     ],
     "low": [
-      10982.0703125,
-      11008.2001953125,
-      10995.98046875,
       11085.6201171875,
       11091.009765625,
       11101.349609375,
@@ -79,12 +82,14 @@
       10785.080078125,
       10756.509765625,
       10804.8896484375,
-      10826.98046875
+      10826.98046875,
+      10775.1904296875,
+      10793.41015625,
+      10788.080078125,
+      10813.8896484375,
+      10788.759765625
     ],
     "close": [
-      11115.3701171875,
-      11012.6396484375,
-      11042.01953125,
       11104.419921875,
       11095.8603515625,
       11145.5498046875,
@@ -99,12 +104,14 @@
       10792.150390625,
       10799.919921875,
       10856.900390625,
-      10826.98046875
+      10826.98046875,
+      10798.9697265625,
+      10813.0400390625,
+      10852.41015625,
+      10853.73046875,
+      10808.4296875
     ],
     "volume": [
-      315723200,
-      237686800,
-      214080800,
       202953200,
       307146100,
       235357200,
@@ -119,7 +126,12 @@
       246678100,
       305087000,
       294132900,
-      261825400
+      261825400,
+      198129800,
+      244708700,
+      219515900,
+      228060000,
+      181885400
     ]
   },
   "qqq": {
@@ -258,7 +270,6 @@
   },
   "oil": {
     "index": [
-      "2026-06-12",
       "2026-06-15",
       "2026-06-16",
       "2026-06-17",
@@ -276,10 +287,10 @@
       "2026-07-07",
       "2026-07-08",
       "2026-07-09",
-      "2026-07-10"
+      "2026-07-10",
+      "2026-07-13"
     ],
     "open": [
-      89.2300033569336,
       85.0199966430664,
       83.55000305175781,
       79.19999694824219,
@@ -297,10 +308,10 @@
       72.11000061035156,
       75.98999786376953,
       79.37999725341797,
-      75.97000122070312
+      75.97000122070312,
+      78.05000305175781
     ],
     "high": [
-      89.87000274658203,
       85.29000091552734,
       83.80000305175781,
       82.9800033569336,
@@ -318,10 +329,10 @@
       76.3499984741211,
       80.56999969482422,
       79.37999725341797,
-      77.55999755859375
+      77.55999755859375,
+      79.79000091552734
     ],
     "low": [
-      85.80000305175781,
       82.4000015258789,
       78.44999694824219,
       77.7699966430664,
@@ -339,10 +350,10 @@
       72.05999755859375,
       75.44999694824219,
       75.5999984741211,
-      75.30999755859375
+      75.30999755859375,
+      77.81999969482422
     ],
     "close": [
-      87.33000183105469,
       83.16999816894531,
       78.95999908447266,
       79.55000305175781,
@@ -360,10 +371,10 @@
       74.16000366210938,
       78.0199966430664,
       76.30000305175781,
-      76.01000213623047
+      76.01000213623047,
+      79.30000305175781
     ],
     "volume": [
-      34732,
       28907,
       30801,
       25919,
@@ -381,7 +392,8 @@
       58154,
       96042,
       47817,
-      38194
+      47817,
+      5682
     ]
   },
   "news": [
@@ -392,22 +404,16 @@
       "source": "Muslim Network TV"
     },
     {
-      "title": "6 Saudi AI and digital projects earn top honors at WSIS 2026 - arabnews.jp",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BSE5JTlBXUDdUOFcxb2loQXY5MWVCZGJtbXFOWTBYWXdJd1haZ2JLSEdhcWJmS3ljSDNvX3BvRDd4aDN1Vm9OQnRBQTFPZmp4NEJ0QW5ES3NkRVRaaGV6VEdCQkNSQQ?oc=5",
-      "publishedAt": "Fri, 10 Jul 2026 10:07:49 GMT",
-      "source": "arabnews.jp"
-    },
-    {
       "title": "KSA's Humain & Canada's Cohere Partner on Saudi AI Infrastructure - CairoScene",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbFpiNVdMZEZjLUpLZXFvcXpCOU9aSHJTbzdYdFhkRkExUk41dW9kWU9TSklNM1BaWVZmUWlXWTFpZHU5eWI2azRNV3dzU0RaLTNhaDZycWg1YkVlaGV2bmpIMlFDbDN4ODJEbl9VMkJzVXotRDVVQUZRWjNwS1hma1RQS2YtcUplMGViWld2Q0k5RGxNeDlpd1NDMA?oc=5",
       "publishedAt": "Fri, 10 Jul 2026 11:23:43 GMT",
       "source": "CairoScene"
     },
     {
-      "title": "Microsoft appoints Ayman AlGhamdi as President of Microsoft Arabia to lead Saudi AI and cloud growth - Indiatimes",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPby1HbTdRWjZHaXk3MThSb3A1aTZUWVpmQm8tQWRiMjhHSXVFOUNQTzdZZm5RUGQ2THBzYUk0eEVzckJvU1VJY3c1Mjc5QVE3aGRXVWE1dmZHTHJxQkFfWXlJTDhYSTZHOUpwOXVya2tBUmprbmw2cmVRSVlrYVJkRlphMEh1Uzl1Ymk3M3dpOGoyVU5JbG51U2FlTmhic0NLbmVoZmlNeFZTNXRmZXFtelJTdmZCUmJiUkpWOGlYUzFSMk4wU3BiU3JaVUVwZzljY2xyWEpaM2JxWmF3cm02MGVKMNIB6AFBVV95cUxPQnhuUXNZOVFLMzUzV3gycVhVYTBmSHdpOTJEVWluQkVadkIxbTVhMEZLbmt1ZWlkQnRaX1RFT24wbzNRaVBQVlpIdHR1TGt4UTFrVm9hcGZkdE8zQmc1TVBNanVzaElzOU9walJkWVV2aUp5NVZ1bUY4MHp6ZFdhc0U0d3NmNFlCd3UzUDBGOHVjU2dERUhXQVBrQUctakpSM1lhNkVDV01CSFVzNTJmMkxKVXlvSjR3MXBSSWJzbGd1azNaTEswa29jV2tmNl9RLUQ4VFVNY0hSUXBtaEstS2p2bU54QzAy?oc=5",
-      "publishedAt": "Wed, 08 Jul 2026 05:00:00 GMT",
-      "source": "Indiatimes"
+      "title": "6 Saudi AI and digital projects earn top honors at WSIS 2026 - arabnews.jp",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BSE5JTlBXUDdUOFcxb2loQXY5MWVCZGJtbXFOWTBYWXdJd1haZ2JLSEdhcWJmS3ljSDNvX3BvRDd4aDN1Vm9OQnRBQTFPZmp4NEJ0QW5ES3NkRVRaaGV6VEdCQkNSQQ?oc=5",
+      "publishedAt": "Fri, 10 Jul 2026 10:07:49 GMT",
+      "source": "arabnews.jp"
     },
     {
       "title": "Cohere teams up with Humain to deliver sovereign AI in Middle East - Telecompaper",
@@ -426,6 +432,12 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaEI0N3c2aWFRbGkwNmRQcG9FQnZETW9obGV4cTlBZUpHYVE3dHAyR0tCRnhQSzZ6bm90UER0WDljb2MxUFNVUGxEVHpXdXNkZlhzVkNkN0ZHa1BGOThGUXE4NGRZTEoxVUVYWjdOMG1BSDJpZWRUV0s5dXFQQ3J6LVJXbHptWjgz?oc=5",
       "publishedAt": "Thu, 09 Jul 2026 14:08:57 GMT",
       "source": "CairoScene"
+    },
+    {
+      "title": "Indian authorities demolish decades-old Muslim shrine - Muslim Network TV",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaThJX3R5OU5BZnZUVzRTTTJBakdSX0w4VzY0R09TNkF3WkJoaTJZWjF1N1Q0MENid3ctWHBBR3hXdnpzM2VMdHc1TGROUDgtVXRrZkNwM0hSbUNxaUtuTGVPN0dvWFFVMll0eTk5cnVPZXZYWmtMYThhWlZXZXVCS09hWU5BQlVfVmNj?oc=5",
+      "publishedAt": "Fri, 10 Jul 2026 00:56:48 GMT",
+      "source": "Muslim Network TV"
     }
   ],
   "ai_analysis": {
@@ -433,8 +445,8 @@
     "sentiment": "Neutral"
   },
   "metadata": {
-    "fetched_at": "2026-07-12T06:05:25.681103",
-    "fetch_duration_seconds": 1.015418,
+    "fetched_at": "2026-07-13T06:21:17.365218",
+    "fetch_duration_seconds": 1.896271,
     "openrouter_api_available": true,
     "news_count": 7
   }
