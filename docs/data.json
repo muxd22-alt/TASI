@@ -1,8 +1,7 @@
 {
-  "timestamp": "2026-07-14T05:32:22.341956",
+  "timestamp": "2026-07-16T05:41:51.066749",
   "tasi": {
     "index": [
-      "2026-06-14",
       "2026-06-15",
       "2026-06-16",
       "2026-06-17",
@@ -24,7 +23,6 @@
       "2026-07-09"
     ],
     "open": [
-      11090.6103515625,
       11156.3798828125,
       11106.76953125,
       11123.1201171875,
@@ -46,7 +44,6 @@
       10853.2001953125
     ],
     "high": [
-      11137.490234375,
       11159.4599609375,
       11172.150390625,
       11148.48046875,
@@ -68,7 +65,6 @@
       10854.0498046875
     ],
     "low": [
-      11085.6201171875,
       11091.009765625,
       11101.349609375,
       11093.580078125,
@@ -90,7 +86,6 @@
       10788.759765625
     ],
     "close": [
-      11104.419921875,
       11095.8603515625,
       11145.5498046875,
       11114.900390625,
@@ -112,7 +107,6 @@
       10808.4296875
     ],
     "volume": [
-      202953200,
       307146100,
       235357200,
       181209700,
@@ -136,135 +130,6 @@
   },
   "qqq": {
     "index": [
-      "2026-06-15",
-      "2026-06-16",
-      "2026-06-17",
-      "2026-06-18",
-      "2026-06-22",
-      "2026-06-23",
-      "2026-06-24",
-      "2026-06-25",
-      "2026-06-26",
-      "2026-06-29",
-      "2026-06-30",
-      "2026-07-01",
-      "2026-07-02",
-      "2026-07-06",
-      "2026-07-07",
-      "2026-07-08",
-      "2026-07-09",
-      "2026-07-10",
-      "2026-07-13"
-    ],
-    "open": [
-      737.2897407963812,
-      741.4351902855873,
-      734.38293083454,
-      736.390778085872,
-      742.02001953125,
-      715.739990234375,
-      715.3699951171875,
-      725.9000244140625,
-      707.1300048828125,
-      713.989990234375,
-      724.1799926757812,
-      729.1900024414062,
-      725.5800170898438,
-      719.9299926757812,
-      714.1699829101562,
-      704.9500122070312,
-      718.3300170898438,
-      720.7000122070312,
-      717.719970703125
-    ],
-    "high": [
-      743.9424640540115,
-      743.4029984406948,
-      734.8723831709506,
-      741.005701773832,
-      745.4500122070312,
-      723.6099853515625,
-      719.9299926757812,
-      726.8300170898438,
-      715.5599975585938,
-      724.5800170898438,
-      737.6199951171875,
-      731.9199829101562,
-      730.8300170898438,
-      726.0800170898438,
-      716.3499755859375,
-      712.260009765625,
-      724.22998046875,
-      726.3900146484375,
-      718.739990234375
-    ],
-    "low": [
-      736.5705604269921,
-      728.8390476265988,
-      720.058646070882,
-      731.7059239216511,
-      734.3900146484375,
-      712.1099853515625,
-      704.4500122070312,
-      705.2999877929688,
-      702.8099975585938,
-      705.1699829101562,
-      723.9099731445312,
-      724.5999755859375,
-      707.5599975585938,
-      718.4500122070312,
-      704.9000244140625,
-      700.9099731445312,
-      715.1300048828125,
-      717.0,
-      710.0800170898438
-    ],
-    "close": [
-      743.1832885742188,
-      729.0587768554688,
-      721.7168579101562,
-      739.8070068359375,
-      737.9500122070312,
-      713.6500244140625,
-      710.6199951171875,
-      716.3800048828125,
-      706.52001953125,
-      724.0800170898438,
-      736.4000244140625,
-      725.1699829101562,
-      712.5999755859375,
-      722.8200073242188,
-      709.4299926757812,
-      711.4400024414062,
-      723.280029296875,
-      725.510009765625,
-      711.739990234375
-    ],
-    "volume": [
-      46710200,
-      45348700,
-      51669300,
-      50154600,
-      43518600,
-      53354200,
-      52480400,
-      49668000,
-      47081800,
-      44939100,
-      42121800,
-      40803800,
-      50959800,
-      30220400,
-      42483100,
-      35603200,
-      33654700,
-      26415900,
-      36351500
-    ]
-  },
-  "oil": {
-    "index": [
-      "2026-06-15",
       "2026-06-16",
       "2026-06-17",
       "2026-06-18",
@@ -283,10 +148,145 @@
       "2026-07-09",
       "2026-07-10",
       "2026-07-13",
-      "2026-07-14"
+      "2026-07-14",
+      "2026-07-15"
     ],
     "open": [
-      85.0199966430664,
+      741.4351902855873,
+      734.38293083454,
+      736.390778085872,
+      742.02001953125,
+      715.739990234375,
+      715.3699951171875,
+      725.9000244140625,
+      707.1300048828125,
+      713.989990234375,
+      724.1799926757812,
+      729.1900024414062,
+      725.5800170898438,
+      719.9299926757812,
+      714.1699829101562,
+      704.9500122070312,
+      718.3300170898438,
+      720.7000122070312,
+      717.719970703125,
+      720.219970703125,
+      723.8499755859375
+    ],
+    "high": [
+      743.4029984406948,
+      734.8723831709506,
+      741.005701773832,
+      745.4500122070312,
+      723.6099853515625,
+      719.9299926757812,
+      726.8300170898438,
+      715.5599975585938,
+      724.5800170898438,
+      737.6199951171875,
+      731.9199829101562,
+      730.8300170898438,
+      726.0800170898438,
+      716.3499755859375,
+      712.260009765625,
+      724.22998046875,
+      726.3900146484375,
+      718.739990234375,
+      722.2899780273438,
+      724.3599853515625
+    ],
+    "low": [
+      728.8390476265988,
+      720.058646070882,
+      731.7059239216511,
+      734.3900146484375,
+      712.1099853515625,
+      704.4500122070312,
+      705.2999877929688,
+      702.8099975585938,
+      705.1699829101562,
+      723.9099731445312,
+      724.5999755859375,
+      707.5599975585938,
+      718.4500122070312,
+      704.9000244140625,
+      700.9099731445312,
+      715.1300048828125,
+      717.0,
+      710.0800170898438,
+      714.3400268554688,
+      710.22998046875
+    ],
+    "close": [
+      729.0587768554688,
+      721.7168579101562,
+      739.8070068359375,
+      737.9500122070312,
+      713.6500244140625,
+      710.6199951171875,
+      716.3800048828125,
+      706.52001953125,
+      724.0800170898438,
+      736.4000244140625,
+      725.1699829101562,
+      712.5999755859375,
+      722.8200073242188,
+      709.4299926757812,
+      711.4400024414062,
+      723.280029296875,
+      725.510009765625,
+      711.739990234375,
+      719.6900024414062,
+      717.739990234375
+    ],
+    "volume": [
+      45348700,
+      51669300,
+      50154600,
+      43518600,
+      53354200,
+      52480400,
+      49668000,
+      47081800,
+      44939100,
+      42121800,
+      40803800,
+      50959800,
+      30220400,
+      42483100,
+      35603200,
+      33654700,
+      26415900,
+      36552400,
+      29448100,
+      32504800
+    ]
+  },
+  "oil": {
+    "index": [
+      "2026-06-16",
+      "2026-06-17",
+      "2026-06-18",
+      "2026-06-22",
+      "2026-06-23",
+      "2026-06-24",
+      "2026-06-25",
+      "2026-06-26",
+      "2026-06-29",
+      "2026-06-30",
+      "2026-07-01",
+      "2026-07-02",
+      "2026-07-06",
+      "2026-07-07",
+      "2026-07-08",
+      "2026-07-09",
+      "2026-07-10",
+      "2026-07-13",
+      "2026-07-14",
+      "2026-07-15",
+      "2026-07-16"
+    ],
+    "open": [
       83.55000305175781,
       79.19999694824219,
       78.3499984741211,
@@ -305,10 +305,11 @@
       79.37999725341797,
       75.97000122070312,
       78.05000305175781,
-      83.29000091552734
+      83.29000091552734,
+      85.20999908447266,
+      85.22000122070312
     ],
     "high": [
-      85.29000091552734,
       83.80000305175781,
       82.9800033569336,
       80.04000091552734,
@@ -327,10 +328,11 @@
       79.37999725341797,
       77.55999755859375,
       83.86000061035156,
-      85.66000366210938
+      87.54000091552734,
+      86.52999877929688,
+      85.75
     ],
     "low": [
-      82.4000015258789,
       78.44999694824219,
       77.7699966430664,
       76.58000183105469,
@@ -349,10 +351,11 @@
       75.5999984741211,
       75.30999755859375,
       77.27999877929688,
-      83.04000091552734
+      83.04000091552734,
+      83.33999633789062,
+      84.3499984741211
     ],
     "close": [
-      83.16999816894531,
       78.95999908447266,
       79.55000305175781,
       79.8499984741211,
@@ -371,10 +374,11 @@
       76.30000305175781,
       76.01000213623047,
       83.30000305175781,
-      84.80000305175781
+      84.7300033569336,
+      84.94999694824219,
+      84.4000015258789
     ],
     "volume": [
-      28907,
       30801,
       25919,
       31186,
@@ -392,11 +396,19 @@
       96042,
       47817,
       39537,
-      39537,
-      10070
+      61577,
+      115669,
+      115669,
+      2460
     ]
   },
   "news": [
+    {
+      "title": "Saudi AI champion HUMAIN to supply compute to Canada startup Cohere - Semafor",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaFJJNWh3dUNWbDIxUC1MR1pGOXN0OGI3UEVNRXg5WWJaNHhZcEllRWUxV1lkN1RtRUZYX0JQUVdVN2lsVUNUZHVVc281YTFvZmlDRzVGcG55UHJkaUFhemRkVVRMWmxxbFJSN2lhb3l4el8wTHdBZ2U2MlZZcnV1UzFId1loMVFaY3ZPazN1YVB2X2NITDg2bExzWEVtX3ZnWE8tRWttcVlNU1ROd0Y4?oc=5",
+      "publishedAt": "Tue, 14 Jul 2026 12:32:00 GMT",
+      "source": "Semafor"
+    },
     {
       "title": "Six Saudi AI projects win top honors at WSIS 2026 - Muslim Network TV",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMlBIVzJmS2J3eTJBZmtIVkwzUVBMcWlFb0MtcTRibXhUSVBaQVR5Y0RwOXhrTnhzRWFfanB2cEg0b1lDd3IxU1M0ZVJBcm83WlpnSko0NDFQRGhKUlk3bFA2ZEN3ZVNadzB2cnk2MXBwTEJhaDk2RVhEZmN3U1JYQl9uUmg2UQ?oc=5",
@@ -404,9 +416,9 @@
       "source": "Muslim Network TV"
     },
     {
-      "title": "KSA's Humain & Canada's Cohere Partner on Saudi AI Infrastructure - CairoScene",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbFpiNVdMZEZjLUpLZXFvcXpCOU9aSHJTbzdYdFhkRkExUk41dW9kWU9TSklNM1BaWVZmUWlXWTFpZHU5eWI2azRNV3dzU0RaLTNhaDZycWg1YkVlaGV2bmpIMlFDbDN4ODJEbl9VMkJzVXotRDVVQUZRWjNwS1hma1RQS2YtcUplMGViWld2Q0k5RGxNeDlpd1NDMA?oc=5",
-      "publishedAt": "Fri, 10 Jul 2026 11:23:43 GMT",
+      "title": "Saudi AI Startup Think Raises $8 Million Pre-Seed Round - CairoScene",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS011clkzclQ2MHNQQy1VRW9ISkZ3YzdIeUthTjFCT2pWTy1tQTk2Q2lhTlQwMFZyWFYyek1IbENOaGRabTQ1UVQwUWNnNTh0d0pLRC1PRGNkT0o0c2l4MVZ5MUpKS3JSQTJRb2RyYmw2bVZCUzlORmFfcW5VUzhxSDJUTDBPTVhtdEFINHFTMA?oc=5",
+      "publishedAt": "Wed, 15 Jul 2026 10:03:08 GMT",
       "source": "CairoScene"
     },
     {
@@ -416,10 +428,22 @@
       "source": "arabnews.jp"
     },
     {
+      "title": "ZAWYA: Saudi AI startup Think raises $8mln to drive GCC expansion - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUWRzNjlyRWRqYnFMTUdMYnZ1SGtlNjFyT1F5bUJILS1iMXZDbTZpbmNUWXdoMWo1dUZKWmxaWXRCQ2RnWFB0RWdjcHUtbnlqNWU3U3hvNHBSWklSVm1mRDFsd1c2Tm1hamJZZWU4NjRrSE83YkdqYWRaWDlVVnZXYUpUZGNTX0VCRGdBUkN5dGRubzhQQkhXaHRBNncydk5MVThMbVdHM3hQdWM5dHRXM21NSGExVnh4U0dxb3B1QXhaT2U4WGl2X0hlVmxqUnI0WEFUajRn?oc=5",
+      "publishedAt": "Wed, 15 Jul 2026 08:38:26 GMT",
+      "source": "TradingView"
+    },
+    {
       "title": "Jordan’s Entrepreneurship Fund Commits $5M to STV to Build a Jordan–Saudi AI Corridor - Tech In Africa",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0xZQThCNmxNOGE2eTFZV2FDOTU3RFZkd1puSWdETUt1RGI3SHRJb3B0eGU5ZlloZ0o2bndBOWttU1p0bmVnbzBWWjhkVlJHSVhURERSbHMwNlB6NVF4UzhfLW82aDFYUU1rUHkzZjlnbHNIeHVuVlR0SlVtaThUV1JZejNQT0VTS0d0cXlhNXhqSHhGNnU4QUYtN3RteWZTOXRidGdxX1Z5ZEJFcGU0SWt1SQ?oc=5",
       "publishedAt": "Mon, 13 Jul 2026 16:26:09 GMT",
       "source": "Tech In Africa"
+    },
+    {
+      "title": "Saudi AI Infrastructure Startup Think Raises USD 8M to Expand Across the GCC - waya.media",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYTRCMFVfeDJtWVlYcG9yZXVTRDRNZlNXTkx2ZGt3TmhPbFM0WjdDQXJxQmpqc2pkRmktaV9FTHRwX01fQ0oyVC0wYlk0OWd3RlZWYURtemwzaE1IZEpvbDBQY3hFRmFJc1Q0QzNtOVY5dHNuSDBpb2FldmtTTUl6aDdlY0NRSzFKY0NlMjBReXdVYXBXNThfVDZJZnQ?oc=5",
+      "publishedAt": "Wed, 15 Jul 2026 11:54:35 GMT",
+      "source": "waya.media"
     },
     {
       "title": "Cohere teams up with Humain to deliver sovereign AI in Middle East - Telecompaper",
@@ -428,16 +452,70 @@
       "source": "Telecompaper"
     },
     {
+      "title": "Saudi company Think raises $8 million in a pre-seed round - jawlah.co",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFA1VFpHVDlEWHZPQkVuRXRuV2QwLURwaTBmaTZ5OUNIT2xuSzJEcUhXQlFvQ2o0V0w3MFA5bDNjYw?oc=5",
+      "publishedAt": "Wed, 15 Jul 2026 13:16:28 GMT",
+      "source": "jawlah.co"
+    },
+    {
       "title": "Maldives plans to establish first domestic autopsy facility - Muslim Network TV",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUDZLV1RxTGdEZHR1aTM3ZFdCOTU0cXBJVkdqWkcyb1NiWHFrbGN5WEJ0SGstQVZvNTdHVU5TU3QzSEdYekEtT2RrMjI2Unk5ZXlGeHQ5MEpIRE9IU0ZRSmV6eFp0aW5YRkVNUGNLeTVPUXg3WHdBeENMak0ycjBJb3Q2aDEtWGVNUDBEYzdVS0M3dkU?oc=5",
       "publishedAt": "Fri, 10 Jul 2026 00:56:48 GMT",
       "source": "Muslim Network TV"
     },
     {
-      "title": "Saudi Foodtech Startup Uvera Secures Seed Funding - CairoScene",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaEI0N3c2aWFRbGkwNmRQcG9FQnZETW9obGV4cTlBZUpHYVE3dHAyR0tCRnhQSzZ6bm90UER0WDljb2MxUFNVUGxEVHpXdXNkZlhzVkNkN0ZHa1BGOThGUXE4NGRZTEoxVUVYWjdOMG1BSDJpZWRUV0s5dXFQQ3J6LVJXbHptWjgz?oc=5",
-      "publishedAt": "Thu, 09 Jul 2026 14:08:57 GMT",
+      "title": "Jordan-Entrepreneurship-Fund-invests-5-million-in-Saudi-Arabias-STV.png - Tech In Africa",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNc0RMemdvekJVV21yUGZpZFNSQ1NneGNXTEdaczQ0a2NFRERyRS0wY0l4VnZCY0hHYXRyUnlyOE9CRlRleE9SVW14VE4wOGtKYmMza3huVm9zMkxxSWZFd1BtNkpQdmhXb0JZWngyYXN0UFM5OU95Y3F1TTc0VjRaN1NnNDN2MGgwYktrR2JmTzQwM3p6UmFDOWw3elNuTmhJd2RzQjJOWGlhX2RlWlZmRHdfZXRtZjdhWnp2ZjFLOElZald6S0lSd01hWEU1Q3JSQ3BUV2RWeG52UEVMWFRsVHVFUlpOTlB3TWpWUExFM2hBcnNadlM1Tm40MmkxYk1qWk9jUXhVSVlGd2hVNDhLcE9Haw?oc=5",
+      "publishedAt": "Tue, 14 Jul 2026 20:23:13 GMT",
+      "source": "Tech In Africa"
+    },
+    {
+      "title": "Faraday Future is Bringing Rental Humanoid Robots to the UAE - CairoScene",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSGNlX28yM01UdkRLcjVObnVhUm1fc0h5RnBqMUlDMm9EZzVsYnZMRVhxeVdPRkdQZ29KVnpVTmJIY0hYYzhwb3dMMmdnUlFpQ21JWUQzSEpyWlllQU4zUkpOXzYxbFBzSnk5Y3VtUmNONERVc1FHNXRXX2RwYkRYR0FYWG9QYkRqNkR4eFh0VGl0U0tNYmJB?oc=5",
+      "publishedAt": "Fri, 10 Jul 2026 22:12:41 GMT",
       "source": "CairoScene"
+    },
+    {
+      "title": "Abbas sets Nov. 28 for first Palestinian legislative elections in 20 years - Muslim Network TV",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTWpIWkpPNUZ6SlBFQnFuUmg1TENWWEhFeTNwelNEWEtMLUpLdC1WeFZNQzAtUmMwZDRBdXU2Q0tteW94M0YtUmxyNGI1NGNSMTAxaWVEUm5rU2t2X1UyUDVWelBLc3JCOTFGSG5ZSS1ueC1RVU9zeUxhWEw3bHdvUlZ1aGN6N1ZuYjBBUzlIS0w3SzVRTTdka2VGMW11aWVOYkVZQnlB?oc=5",
+      "publishedAt": "Fri, 10 Jul 2026 00:56:48 GMT",
+      "source": "Muslim Network TV"
+    },
+    {
+      "title": "Saudi-French Model Amira Al-Zuhair Walks Dolce & Gabbana Show - CairoScene",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU0lHemlKQnY5OTc2dXJTMk81OWJLYXBRMktFUVpieXFkNVZFNlRLM09WY1YtSmRJWHNzdG5zT3RSTVVvQlBUUTRoTDdWNGpwZHRKdC1ZOGd1NDdDcnVfZHlLaWw0aHkzd2hUQ042SGtKYnN1SDAyZkVMOV8tWEQzT1NHWlJSZkRvaTAxLThTZnhDNkk?oc=5",
+      "publishedAt": "Wed, 15 Jul 2026 10:16:04 GMT",
+      "source": "CairoScene"
+    },
+    {
+      "title": "Iran launches retaliatory strikes after fresh US attacks endanger Middle East - Muslim Network TV",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWgwSmY3R1NUVlRxelVvck5uWm1yVnN3LWJJWUJlVGRTeDdlRV8tNE5RMFRISTdIQ3RQdlgyQzlUdzJDaWViaktwZmRvREtsbGxXODFmM25TSVFwd185b2pRRXlsalJaVmV5c1VMM3RoTEJFdUFlLV9qR3BCZnY0TFVGSDFBekUyZVdMelBleVZpQmVMc3NLSG9LTzNqenlYVEctU1NRMkl6eXM?oc=5",
+      "publishedAt": "Fri, 10 Jul 2026 00:56:48 GMT",
+      "source": "Muslim Network TV"
+    },
+    {
+      "title": "Bahrain's Islamic Banking Assets to Top $100 Billion by 2027 - CairoScene",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWUhQcTJEMXZCeUNvVF9HNEt0b2VjdHBseFg5cGFsNzNKcDBkSFF4QVZiRHFnM0NqcjRFU0dBMVMwa3g3OGUwc1kyZlpybHNObE5pZUI0WFlDWmNHVXVFaDU0X1hWZl92cWk2LW5QNGNtX3plT3cwU3R4cmFENE41Tk5pTGFPaEp0NVRiRzRGU1FUdEtfRHc?oc=5",
+      "publishedAt": "Wed, 15 Jul 2026 09:30:52 GMT",
+      "source": "CairoScene"
+    },
+    {
+      "title": "Explosions rock Iran as US denies new strikes amid escalating regional tensions - Muslim Network TV",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdUVfc000b0FqZ2pDd0hUME5fUDBqc1lBV2FFam1VSWNrZFNIdkxuYVdFa2FCODVnSzYxUzJUc1VqVmRjU0czTnB0RzRZNWU4N2xPazN4cGxXR1J2SG1xUGc0VHY5MFY3ZVJjXzZGUjZyQzZUQ3VWaE9lRC1fdGxaamFreTdMYVZBYUNKb3JqSzRSX0s4WU4tRC1kSUhDM0sxUDNtU3AxUFhRRVRELUE?oc=5",
+      "publishedAt": "Fri, 10 Jul 2026 01:21:00 GMT",
+      "source": "Muslim Network TV"
+    },
+    {
+      "title": "Israeli strike kills Gaza World Cup screenings organizer, ending rare moments of respite - Muslim Network TV",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObWw2OTIxUDRGY2lwMVpzNGxqRXdBTGMySEZvYllOV09PWUlzQVVrSDZDY3hoRmcwMjZHdWFIRWprRVJ0eDZWbE5oYVBzWjlNdWRpRFhFQjZQeEtTLWlmVEpMUDVuT3FRM0RiTFZsUFZ4OE8tcWJHY0RRUk1TTy1ldUlGNVdUbUNHVHhWSVFtNlBHd1V3NHp5RTRkSU4yNTZMZmlnZmxQYTVVYlJjNWtzN1lBcDFZMDhV?oc=5",
+      "publishedAt": "Fri, 10 Jul 2026 00:56:48 GMT",
+      "source": "Muslim Network TV"
+    },
+    {
+      "title": "Saudi Arabia Showcases AI Governance Model at UN Session - asbf.org.au",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82Q0o5V0s1OEtodTVGbjRaVENBYUhYYTB4OFJJc1lScVhObXVtanR2Y00tZlhCaFhOSHdsclJfSHp2VTREWWVGNkg2ay1hdUJBT3lxcmloZUlVblh5VlZQakJ1em9vME1DRGdITw?oc=5",
+      "publishedAt": "Tue, 14 Jul 2026 06:24:22 GMT",
+      "source": "asbf.org.au"
     }
   ],
   "ai_analysis": {
@@ -445,9 +523,9 @@
     "sentiment": "Neutral"
   },
   "metadata": {
-    "fetched_at": "2026-07-14T05:32:22.341969",
-    "fetch_duration_seconds": 1.800738,
+    "fetched_at": "2026-07-16T05:41:51.066760",
+    "fetch_duration_seconds": 0.855705,
     "openrouter_api_available": true,
-    "news_count": 7
+    "news_count": 19
   }
 }
