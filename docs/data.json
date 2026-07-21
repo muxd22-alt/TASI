@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-20T06:19:05.884835",
+  "timestamp": "2026-07-21T05:52:43.281978",
   "tasi": {
     "index": [
       "2026-06-21",
@@ -136,7 +136,6 @@
   },
   "qqq": {
     "index": [
-      "2026-06-18",
       "2026-06-22",
       "2026-06-23",
       "2026-06-24",
@@ -155,10 +154,10 @@
       "2026-07-14",
       "2026-07-15",
       "2026-07-16",
-      "2026-07-17"
+      "2026-07-17",
+      "2026-07-20"
     ],
     "open": [
-      736.390778085872,
       742.02001953125,
       715.739990234375,
       715.3699951171875,
@@ -177,10 +176,10 @@
       720.219970703125,
       723.8499755859375,
       712.010009765625,
-      691.6500244140625
+      691.6500244140625,
+      702.1599731445312
     ],
     "high": [
-      741.005701773832,
       745.4500122070312,
       723.6099853515625,
       719.9299926757812,
@@ -199,10 +198,10 @@
       722.2899780273438,
       724.3599853515625,
       713.5999755859375,
-      702.2999877929688
+      702.2999877929688,
+      705.7999877929688
     ],
     "low": [
-      731.7059239216511,
       734.3900146484375,
       712.1099853515625,
       704.4500122070312,
@@ -221,10 +220,10 @@
       714.3400268554688,
       710.22998046875,
       702.6099853515625,
-      686.760009765625
+      686.760009765625,
+      695.510009765625
     ],
     "close": [
-      739.8070068359375,
       737.9500122070312,
       713.6500244140625,
       710.6199951171875,
@@ -243,10 +242,10 @@
       719.6900024414062,
       717.739990234375,
       705.9400024414062,
-      695.3300170898438
+      695.3300170898438,
+      696.0599975585938
     ],
     "volume": [
-      50154600,
       43518600,
       53354200,
       52480400,
@@ -265,7 +264,8 @@
       29448100,
       32627600,
       39402000,
-      53985400
+      54109300,
+      29529400
     ]
   },
   "oil": {
@@ -289,7 +289,8 @@
       "2026-07-15",
       "2026-07-16",
       "2026-07-17",
-      "2026-07-20"
+      "2026-07-20",
+      "2026-07-21"
     ],
     "open": [
       82.20999908447266,
@@ -311,7 +312,8 @@
       85.20999908447266,
       85.22000122070312,
       84.88999938964844,
-      89.01000213623047
+      89.01000213623047,
+      88.88999938964844
     ],
     "high": [
       82.37999725341797,
@@ -333,7 +335,8 @@
       86.52999877929688,
       86.26000213623047,
       88.31999969482422,
-      91.43000030517578
+      91.43000030517578,
+      89.1500015258789
     ],
     "low": [
       77.2699966430664,
@@ -355,7 +358,8 @@
       83.33999633789062,
       83.83000183105469,
       83.70999908447266,
-      89.01000213623047
+      86.13999938964844,
+      88.30000305175781
     ],
     "close": [
       77.9000015258789,
@@ -377,7 +381,8 @@
       84.94999694824219,
       84.2300033569336,
       88.0999984741211,
-      90.7699966430664
+      89.22000122070312,
+      88.5199966430664
     ],
     "volume": [
       46574,
@@ -398,8 +403,9 @@
       115669,
       52882,
       39917,
-      39917,
-      5144
+      30997,
+      30997,
+      1305
     ]
   },
   "news": [
@@ -422,22 +428,28 @@
       "source": "TradingView"
     },
     {
-      "title": "Saudi AI Infrastructure Startup Think Raises USD 8M to Expand Across the GCC - waya.media",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYTRCMFVfeDJtWVlYcG9yZXVTRDRNZlNXTkx2ZGt3TmhPbFM0WjdDQXJxQmpqc2pkRmktaV9FTHRwX01fQ0oyVC0wYlk0OWd3RlZWYURtemwzaE1IZEpvbDBQY3hFRmFJc1Q0QzNtOVY5dHNuSDBpb2FldmtTTUl6aDdlY0NRSzFKY0NlMjBReXdVYXBXNThfVDZJZnQ?oc=5",
-      "publishedAt": "Wed, 15 Jul 2026 11:54:35 GMT",
-      "source": "waya.media"
-    },
-    {
       "title": "Jordan’s Entrepreneurship Fund Commits $5M to STV to Build a Jordan–Saudi AI Corridor - Tech In Africa",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0xZQThCNmxNOGE2eTFZV2FDOTU3RFZkd1puSWdETUt1RGI3SHRJb3B0eGU5ZlloZ0o2bndBOWttU1p0bmVnbzBWWjhkVlJHSVhURERSbHMwNlB6NVF4UzhfLW82aDFYUU1rUHkzZjlnbHNIeHVuVlR0SlVtaThUV1JZejNQT0VTS0d0cXlhNXhqSHhGNnU4QUYtN3RteWZTOXRidGdxX1Z5ZEJFcGU0SWt1SQ?oc=5",
-      "publishedAt": "Mon, 13 Jul 2026 16:26:09 GMT",
+      "publishedAt": "Tue, 14 Jul 2026 16:25:39 GMT",
       "source": "Tech In Africa"
+    },
+    {
+      "title": "Saudi AI firm hires Goldman Sachs for data centers financing package - report - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOemlJZC0wMTBDSVVSRVhwSXdhM3RuT2xHcWJfd1BCMzVUQWlZQmRvY2ZFbGhyc2dlRU85X242bXcwdGdsNlBiR0pob1JPM2hRUlQtZGZRZmdUYkJIaDViMkFWdUx4b1ZQTHNsMnJOczJuZXBmcC14Z3loMlpOZnlsRFlURVR5Z3pQS3FmRm1lbElWSVBGZl9zcFVhV09wNDJlcmpXc1hFbXREWmIwYmtwWHRBSmpmUHR3aEVNbktCMDBYbWJxSDhpR0xmZVR1cTZl?oc=5",
+      "publishedAt": "Sun, 19 Jul 2026 19:50:56 GMT",
+      "source": "MSN"
     },
     {
       "title": "Uber gets Delivery Hero, Tabby pushes beyond BNPL - FWDStart",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Id3M5ZGxjdFR5UHFpOUtSQUdqU1llYTdLYnc3R0taTnVRczhyc3dQUGprb2tDbGFzZnpnek9HZlE2Q3lLMURieTh6dUhIY0NreHEtbnpkOE1MdERmR3RUX2pvcnItbDRJaWNkU0RTeloxdS1hdWZSVnQxbE1Ndms?oc=5",
       "publishedAt": "Fri, 17 Jul 2026 08:02:45 GMT",
       "source": "FWDStart"
+    },
+    {
+      "title": "Dell Technologies & Scale AI Agree to Support Qatar’s AI Capabilities - CairoScene",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2pyT3Etd2F5RGQ4M3ZITUEzNzdXM1RfWFhicmloWXIzTDhZdS1OcllJVjZHYzlpTWxuVWFQckI2TFh2dzI0Q3g5cURzWHYyR1IySlNSZ0l4dnZValJUei05c2o1QkF3T3o4RnJmU0E4Z09MdDlVaFZ6aE5KRExONDEzQnRUM3lGaTJ0Si1ZNXcyVy1vWDh6WEpxVl9EVncx?oc=5",
+      "publishedAt": "Tue, 21 Jul 2026 03:01:31 GMT",
+      "source": "CairoScene"
     },
     {
       "title": "Jordan-Entrepreneurship-Fund-invests-5-million-in-Saudi-Arabias-STV.png - Tech In Africa",
@@ -450,6 +462,12 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU0lHemlKQnY5OTc2dXJTMk81OWJLYXBRMktFUVpieXFkNVZFNlRLM09WY1YtSmRJWHNzdG5zT3RSTVVvQlBUUTRoTDdWNGpwZHRKdC1ZOGd1NDdDcnVfZHlLaWw0aHkzd2hUQ042SGtKYnN1SDAyZkVMOV8tWEQzT1NHWlJSZkRvaTAxLThTZnhDNkk?oc=5",
       "publishedAt": "Wed, 15 Jul 2026 10:16:04 GMT",
       "source": "CairoScene"
+    },
+    {
+      "title": "NVIDIA Startup Programme Makes Egypt Debut With Cairo Event - CairoScene",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORGtGRkhRZlNZbU5RcjRwS18ybXh3eXBtMkVWVGF5QVBuTEJJcWNxRnRnczhvX3Nza0NwY0J0T3lmR0lvRlhKLVB4ajJ4UjlINl9vdWtqelUzbktDd2lJaWVDLVB6QU5BMUVkeDNKbnBRYnVRRFpBNXEwUmFjOFBuSENxYXlPd2dLVkxwdjB6VjktZDlUVXc?oc=5",
+      "publishedAt": "Mon, 20 Jul 2026 10:10:59 GMT",
+      "source": "CairoScene"
     }
   ],
   "ai_analysis": {
@@ -457,9 +475,9 @@
     "sentiment": "Neutral"
   },
   "metadata": {
-    "fetched_at": "2026-07-20T06:19:05.884843",
-    "fetch_duration_seconds": 1.543658,
+    "fetched_at": "2026-07-21T05:52:43.281987",
+    "fetch_duration_seconds": 1.721726,
     "openrouter_api_available": true,
-    "news_count": 8
+    "news_count": 10
   }
 }
