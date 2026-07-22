@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-21T05:52:43.281978",
+  "timestamp": "2026-07-22T05:51:34.040282",
   "tasi": {
     "index": [
       "2026-06-21",
@@ -155,7 +155,8 @@
       "2026-07-15",
       "2026-07-16",
       "2026-07-17",
-      "2026-07-20"
+      "2026-07-20",
+      "2026-07-21"
     ],
     "open": [
       742.02001953125,
@@ -177,7 +178,8 @@
       723.8499755859375,
       712.010009765625,
       691.6500244140625,
-      702.1599731445312
+      702.1599731445312,
+      706.5700073242188
     ],
     "high": [
       745.4500122070312,
@@ -199,7 +201,8 @@
       724.3599853515625,
       713.5999755859375,
       702.2999877929688,
-      705.7999877929688
+      705.7999877929688,
+      710.0499877929688
     ],
     "low": [
       734.3900146484375,
@@ -221,7 +224,8 @@
       710.22998046875,
       702.6099853515625,
       686.760009765625,
-      695.510009765625
+      695.510009765625,
+      702.7999877929688
     ],
     "close": [
       737.9500122070312,
@@ -243,7 +247,8 @@
       717.739990234375,
       705.9400024414062,
       695.3300170898438,
-      696.0599975585938
+      696.0599975585938,
+      708.969970703125
     ],
     "volume": [
       43518600,
@@ -265,7 +270,8 @@
       32627600,
       39402000,
       54109300,
-      29529400
+      29687600,
+      33582200
     ]
   },
   "oil": {
@@ -290,7 +296,8 @@
       "2026-07-16",
       "2026-07-17",
       "2026-07-20",
-      "2026-07-21"
+      "2026-07-21",
+      "2026-07-22"
     ],
     "open": [
       82.20999908447266,
@@ -313,7 +320,8 @@
       85.22000122070312,
       84.88999938964844,
       89.01000213623047,
-      88.88999938964844
+      88.88999938964844,
+      91.51000213623047
     ],
     "high": [
       82.37999725341797,
@@ -336,7 +344,8 @@
       86.26000213623047,
       88.31999969482422,
       91.43000030517578,
-      89.1500015258789
+      91.97000122070312,
+      92.66000366210938
     ],
     "low": [
       77.2699966430664,
@@ -359,7 +368,8 @@
       83.83000183105469,
       83.70999908447266,
       86.13999938964844,
-      88.30000305175781
+      87.87999725341797,
+      91.31999969482422
     ],
     "close": [
       77.9000015258789,
@@ -382,7 +392,8 @@
       84.2300033569336,
       88.0999984741211,
       89.22000122070312,
-      88.5199966430664
+      91.01000213623047,
+      92.05000305175781
     ],
     "volume": [
       46574,
@@ -404,22 +415,17 @@
       52882,
       39917,
       30997,
-      30997,
-      1305
+      50407,
+      50407,
+      2336
     ]
   },
   "news": [
     {
-      "title": "Saudi AI champion HUMAIN to supply compute to Canada startup Cohere - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbEFFX1JsNkVMeTA1REpaVmN1b2gyY0dIRnZ4RW1hUXBvS19DUERXLXJ2bTF1N3JLSzBjd3BYcG5yOHA4RURVOUVzeVg2STVRRUZ4MEt6MXdkbnYwSkIwYkJ0YWFZekd3N1czd2pBNkRaNmkwUFJQV3JpUHZHV1VsZHVMX2hDN1RhWnpzbGNueU5GOGx2VlZBbHZodw?oc=5",
-      "publishedAt": "Tue, 14 Jul 2026 12:32:33 GMT",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Saudi AI Startup Think Raises $8 Million Pre-Seed Round - CairoScene",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS011clkzclQ2MHNQQy1VRW9ISkZ3YzdIeUthTjFCT2pWTy1tQTk2Q2lhTlQwMFZyWFYyek1IbENOaGRabTQ1UVQwUWNnNTh0d0pLRC1PRGNkT0o0c2l4MVZ5MUpKS3JSQTJRb2RyYmw2bVZCUzlORmFfcW5VUzhxSDJUTDBPTVhtdEFINHFTMA?oc=5",
-      "publishedAt": "Wed, 15 Jul 2026 10:03:08 GMT",
-      "source": "CairoScene"
+      "title": "Saudi AI-native startups outpace global peers in strategy, growth: AWS report - arabnews.jp",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94RjRRYkk4UGRMSURySzdTYTZpOWd2VWg5MzhRUm5JckxvN2dDWUQ1WF9GRE5qb3I1ZjFyOUctSFVBQUJxSXAzOVRja3V4V0FoMjJaT3pzbWg1WUxZYW1mUXRGUEhXQQ?oc=5",
+      "publishedAt": "Wed, 22 Jul 2026 04:01:00 GMT",
+      "source": "arabnews.jp"
     },
     {
       "title": "ZAWYA: Saudi AI startup Think raises $8mln to drive GCC expansion - TradingView",
@@ -428,16 +434,16 @@
       "source": "TradingView"
     },
     {
-      "title": "Jordan’s Entrepreneurship Fund Commits $5M to STV to Build a Jordan–Saudi AI Corridor - Tech In Africa",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0xZQThCNmxNOGE2eTFZV2FDOTU3RFZkd1puSWdETUt1RGI3SHRJb3B0eGU5ZlloZ0o2bndBOWttU1p0bmVnbzBWWjhkVlJHSVhURERSbHMwNlB6NVF4UzhfLW82aDFYUU1rUHkzZjlnbHNIeHVuVlR0SlVtaThUV1JZejNQT0VTS0d0cXlhNXhqSHhGNnU4QUYtN3RteWZTOXRidGdxX1Z5ZEJFcGU0SWt1SQ?oc=5",
-      "publishedAt": "Tue, 14 Jul 2026 16:25:39 GMT",
-      "source": "Tech In Africa"
-    },
-    {
       "title": "Saudi AI firm hires Goldman Sachs for data centers financing package - report - MSN",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOemlJZC0wMTBDSVVSRVhwSXdhM3RuT2xHcWJfd1BCMzVUQWlZQmRvY2ZFbGhyc2dlRU85X242bXcwdGdsNlBiR0pob1JPM2hRUlQtZGZRZmdUYkJIaDViMkFWdUx4b1ZQTHNsMnJOczJuZXBmcC14Z3loMlpOZnlsRFlURVR5Z3pQS3FmRm1lbElWSVBGZl9zcFVhV09wNDJlcmpXc1hFbXREWmIwYmtwWHRBSmpmUHR3aEVNbktCMDBYbWJxSDhpR0xmZVR1cTZl?oc=5",
-      "publishedAt": "Sun, 19 Jul 2026 19:50:56 GMT",
+      "publishedAt": "Tue, 21 Jul 2026 20:16:41 GMT",
       "source": "MSN"
+    },
+    {
+      "title": "Dell Technologies & Scale AI Agree to Support Qatar’s AI Capabilities - CairoScene",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2pyT3Etd2F5RGQ4M3ZITUEzNzdXM1RfWFhicmloWXIzTDhZdS1OcllJVjZHYzlpTWxuVWFQckI2TFh2dzI0Q3g5cURzWHYyR1IySlNSZ0l4dnZValJUei05c2o1QkF3T3o4RnJmU0E4Z09MdDlVaFZ6aE5KRExONDEzQnRUM3lGaTJ0Si1ZNXcyVy1vWDh6WEpxVl9EVncx?oc=5",
+      "publishedAt": "Tue, 21 Jul 2026 03:01:49 GMT",
+      "source": "CairoScene"
     },
     {
       "title": "Uber gets Delivery Hero, Tabby pushes beyond BNPL - FWDStart",
@@ -446,27 +452,9 @@
       "source": "FWDStart"
     },
     {
-      "title": "Dell Technologies & Scale AI Agree to Support Qatar’s AI Capabilities - CairoScene",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2pyT3Etd2F5RGQ4M3ZITUEzNzdXM1RfWFhicmloWXIzTDhZdS1OcllJVjZHYzlpTWxuVWFQckI2TFh2dzI0Q3g5cURzWHYyR1IySlNSZ0l4dnZValJUei05c2o1QkF3T3o4RnJmU0E4Z09MdDlVaFZ6aE5KRExONDEzQnRUM3lGaTJ0Si1ZNXcyVy1vWDh6WEpxVl9EVncx?oc=5",
-      "publishedAt": "Tue, 21 Jul 2026 03:01:31 GMT",
-      "source": "CairoScene"
-    },
-    {
-      "title": "Jordan-Entrepreneurship-Fund-invests-5-million-in-Saudi-Arabias-STV.png - Tech In Africa",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNc0RMemdvekJVV21yUGZpZFNSQ1NneGNXTEdaczQ0a2NFRERyRS0wY0l4VnZCY0hHYXRyUnlyOE9CRlRleE9SVW14VE4wOGtKYmMza3huVm9zMkxxSWZFd1BtNkpQdmhXb0JZWngyYXN0UFM5OU95Y3F1TTc0VjRaN1NnNDN2MGgwYktrR2JmTzQwM3p6UmFDOWw3elNuTmhJd2RzQjJOWGlhX2RlWlZmRHdfZXRtZjdhWnp2ZjFLOElZald6S0lSd01hWEU1Q3JSQ3BUV2RWeG52UEVMWFRsVHVFUlpOTlB3TWpWUExFM2hBcnNadlM1Tm40MmkxYk1qWk9jUXhVSVlGd2hVNDhLcE9Haw?oc=5",
-      "publishedAt": "Tue, 14 Jul 2026 20:23:13 GMT",
-      "source": "Tech In Africa"
-    },
-    {
       "title": "Saudi-French Model Amira Al-Zuhair Walks Dolce & Gabbana Show - CairoScene",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU0lHemlKQnY5OTc2dXJTMk81OWJLYXBRMktFUVpieXFkNVZFNlRLM09WY1YtSmRJWHNzdG5zT3RSTVVvQlBUUTRoTDdWNGpwZHRKdC1ZOGd1NDdDcnVfZHlLaWw0aHkzd2hUQ042SGtKYnN1SDAyZkVMOV8tWEQzT1NHWlJSZkRvaTAxLThTZnhDNkk?oc=5",
       "publishedAt": "Wed, 15 Jul 2026 10:16:04 GMT",
-      "source": "CairoScene"
-    },
-    {
-      "title": "NVIDIA Startup Programme Makes Egypt Debut With Cairo Event - CairoScene",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORGtGRkhRZlNZbU5RcjRwS18ybXh3eXBtMkVWVGF5QVBuTEJJcWNxRnRnczhvX3Nza0NwY0J0T3lmR0lvRlhKLVB4ajJ4UjlINl9vdWtqelUzbktDd2lJaWVDLVB6QU5BMUVkeDNKbnBRYnVRRFpBNXEwUmFjOFBuSENxYXlPd2dLVkxwdjB6VjktZDlUVXc?oc=5",
-      "publishedAt": "Mon, 20 Jul 2026 10:10:59 GMT",
       "source": "CairoScene"
     }
   ],
@@ -475,9 +463,9 @@
     "sentiment": "Neutral"
   },
   "metadata": {
-    "fetched_at": "2026-07-21T05:52:43.281987",
-    "fetch_duration_seconds": 1.721726,
+    "fetched_at": "2026-07-22T05:51:34.040288",
+    "fetch_duration_seconds": 0.925649,
     "openrouter_api_available": true,
-    "news_count": 10
+    "news_count": 6
   }
 }
