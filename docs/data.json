@@ -1,9 +1,7 @@
 {
-  "timestamp": "2026-08-02T06:02:59.663493",
+  "timestamp": "2026-08-03T06:24:25.696984",
   "tasi": {
     "index": [
-      "2026-06-30",
-      "2026-07-01",
       "2026-07-02",
       "2026-07-05",
       "2026-07-06",
@@ -17,8 +15,6 @@
       "2026-07-16"
     ],
     "open": [
-      10791.990234375,
-      10804.900390625,
       10858.4697265625,
       10830.9296875,
       10804.580078125,
@@ -32,8 +28,6 @@
       10714.9296875
     ],
     "high": [
-      10819.4697265625,
-      10879.8203125,
       10868.1103515625,
       10837.6396484375,
       10839.8896484375,
@@ -47,8 +41,6 @@
       10733.2802734375
     ],
     "low": [
-      10756.509765625,
-      10804.8896484375,
       10826.98046875,
       10775.1904296875,
       10793.41015625,
@@ -62,8 +54,6 @@
       10693.8203125
     ],
     "close": [
-      10799.919921875,
-      10856.900390625,
       10826.98046875,
       10798.9697265625,
       10813.0400390625,
@@ -77,8 +67,6 @@
       10720.2802734375
     ],
     "volume": [
-      305087000,
-      294132900,
       261825400,
       198129800,
       244708700,
@@ -240,7 +228,6 @@
   },
   "oil": {
     "index": [
-      "2026-07-02",
       "2026-07-06",
       "2026-07-07",
       "2026-07-08",
@@ -263,7 +250,6 @@
       "2026-07-31"
     ],
     "open": [
-      71.08999633789062,
       71.87000274658203,
       72.11000061035156,
       75.98999786376953,
@@ -286,7 +272,6 @@
       89.37999725341797
     ],
     "high": [
-      71.91000366210938,
       72.58999633789062,
       76.3499984741211,
       80.56999969482422,
@@ -309,7 +294,6 @@
       90.58000183105469
     ],
     "low": [
-      70.13999938964844,
       71.02999877929688,
       72.05999755859375,
       75.44999694824219,
@@ -332,7 +316,6 @@
       87.0
     ],
     "close": [
-      71.80000305175781,
       71.98999786376953,
       74.16000366210938,
       78.0199966430664,
@@ -355,7 +338,6 @@
       90.12000274658203
     ],
     "volume": [
-      0,
       46238,
       58154,
       96042,
@@ -375,7 +357,7 @@
       32213,
       22489,
       6854,
-      1016
+      6854
     ]
   },
   "news": [
@@ -404,10 +386,22 @@
       "source": "simplywall.st"
     },
     {
+      "title": "DataVolt to secure finance for Saudi AI sites ‘within 6 months’ - Arabian Gulf Business Insight | AGBI",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHI4MUNweWpreTFXLU5GUnRpank1WjY4WWt2YnNNd2wteGxCNU03c010V0liTUE1SXloZnh5Q011MlhIZnVPV3EzQzc2bV9ydHNOQjYwMF8tSmRLUWVOSWZQR1dGMEw5TFUzSFJOT29jOUZ0Z1h1cG5UOG9wNG5OZHFVWHZqSGxrV2lHS0o1MHZsOV9FYWM3UV93SHZDaFU?oc=5",
+      "publishedAt": "Mon, 03 Aug 2026 00:00:00 GMT",
+      "source": "Arabian Gulf Business Insight | AGBI"
+    },
+    {
       "title": "Saudi AI workforce initiative reaches 51,000 learners worldwide - Arab News",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95cjhPM3k5VHpxMmtlS090RDRLMWZ4SGwtS0Y4VnMwNHBhd0ZPQXA3TkVRLWh4cU12aS1MRUk0NkE1LUNHV3pHOG96VzM2dHRGZVNkaUdmLTJTYlRRRjdNR2ZEUms?oc=5",
       "publishedAt": "Thu, 30 Jul 2026 19:00:53 GMT",
       "source": "Arab News"
+    },
+    {
+      "title": "Saudi Women Outpace Men in AI Tool Usage - CairoScene",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BM2xJUUktcjlMbU0wU2x1WnBONzk4OUxYSG5XdUhqOGlkeGFkczI4R2RrOWJIdVJ2VV9URFZhVjZ3VnJIRkVUcEVtNHhKc1ozVmdSdFlFVEJrdTlQS2h3SFpUdVd6cXp3NXZESnlVdVlwZ25FSzN3?oc=5",
+      "publishedAt": "Sun, 02 Aug 2026 09:51:23 GMT",
+      "source": "CairoScene"
     }
   ],
   "ai_analysis": {
@@ -415,9 +409,9 @@
     "sentiment": "Neutral"
   },
   "metadata": {
-    "fetched_at": "2026-08-02T06:02:59.663506",
-    "fetch_duration_seconds": 3.740871,
+    "fetched_at": "2026-08-03T06:24:25.696994",
+    "fetch_duration_seconds": 0.838859,
     "openrouter_api_available": true,
-    "news_count": 5
+    "news_count": 7
   }
 }
