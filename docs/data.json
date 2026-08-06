@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T05:46:43.486536",
+  "timestamp": "2026-08-06T05:49:24.449425",
   "tasi": {
     "index": [
       "2026-07-05",
@@ -97,7 +97,8 @@
       "2026-07-30",
       "2026-07-31",
       "2026-08-03",
-      "2026-08-04"
+      "2026-08-04",
+      "2026-08-05"
     ],
     "open": [
       719.9299926757812,
@@ -121,7 +122,8 @@
       674.760009765625,
       692.1099853515625,
       688.2999877929688,
-      708.1599731445312
+      708.1599731445312,
+      726.25
     ],
     "high": [
       726.0800170898438,
@@ -145,7 +147,8 @@
       685.1199951171875,
       695.77001953125,
       701.5900268554688,
-      725.6599731445312
+      725.6599731445312,
+      728.5399780273438
     ],
     "low": [
       718.4500122070312,
@@ -169,7 +172,8 @@
       673.2999877929688,
       680.0499877929688,
       685.8200073242188,
-      707.530029296875
+      707.530029296875,
+      716.9199829101562
     ],
     "close": [
       722.8200073242188,
@@ -193,7 +197,8 @@
       683.5499877929688,
       687.989990234375,
       700.0700073242188,
-      723.8499755859375
+      723.8499755859375,
+      717.2999877929688
     ],
     "volume": [
       30220400,
@@ -217,7 +222,8 @@
       66753700,
       50540500,
       44965100,
-      59441100
+      59778600,
+      33239300
     ]
   },
   "oil": {
@@ -243,7 +249,9 @@
       "2026-07-30",
       "2026-07-31",
       "2026-08-03",
-      "2026-08-05"
+      "2026-08-04",
+      "2026-08-05",
+      "2026-08-06"
     ],
     "open": [
       71.87000274658203,
@@ -267,7 +275,9 @@
       90.48999786376953,
       89.37999725341797,
       83.36000061035156,
-      78.93000030517578
+      83.58000183105469,
+      78.93000030517578,
+      79.43000030517578
     ],
     "high": [
       72.58999633789062,
@@ -291,7 +301,9 @@
       93.13999938964844,
       90.58000183105469,
       84.6500015258789,
-      79.83999633789062
+      86.33000183105469,
+      80.93000030517578,
+      80.31999969482422
     ],
     "low": [
       71.02999877929688,
@@ -315,7 +327,9 @@
       88.8499984741211,
       87.0,
       81.8499984741211,
-      78.12999725341797
+      78.69000244140625,
+      78.12999725341797,
+      78.9800033569336
     ],
     "close": [
       71.98999786376953,
@@ -339,7 +353,9 @@
       89.02999877929688,
       90.12000274658203,
       83.7699966430664,
-      78.63999938964844
+      79.36000061035156,
+      79.44999694824219,
+      79.23999786376953
     ],
     "volume": [
       46238,
@@ -362,15 +378,17 @@
       22489,
       6854,
       46811,
-      46811,
-      2896
+      38780,
+      64851,
+      64851,
+      1899
     ]
   },
   "news": [
     {
       "title": "SDAIA Launches AI Badge Program to Build Saudi AI Talent - MIT Sloan Management Review Middle East",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTjczZUxwNVJLOU9rX1EtaFRvS3hnMHZBTjkyb2N6ZnBIT2NFV1lfSi04Tk56YUdEWUp5NTNkd0dFb1pKR29tamIycWVHTEkwbkRjUldWZlByVWFMamlMZllVNFUxN2JYMU5HRlJYT0VFRVpDVVM3TkliTnNVQ1RlV1FOQXJPRWRCdmdUTzllTzctYmdYLXc?oc=5",
-      "publishedAt": "Tue, 04 Aug 2026 16:27:05 GMT",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1JMOS10RGV3S2J1MG4xNU5UTXNMRlFHOHVrbEdYdTRQQWZpaTdaNnFodHRuaC11M3NHTmtQWHVnT2ZYOTV4WVc5V0E5LXFPRTlBV25OX1YzcEJSa3R2c3RoNnNiMlZUZzkzZlFMNUtFVGhTV2c1RWJQNHc0dFZvRENfZmZVcGk3ekxUTmE5TWpBX09sdHJr?oc=5",
+      "publishedAt": "Tue, 04 Aug 2026 17:10:36 GMT",
       "source": "MIT Sloan Management Review Middle East"
     },
     {
@@ -392,28 +410,28 @@
       "source": "Wamda"
     },
     {
-      "title": "DataVolt to secure finance for Saudi AI sites ‘within 6 months’ - Arabian Gulf Business Insight | AGBI",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHI4MUNweWpreTFXLU5GUnRpank1WjY4WWt2YnNNd2wteGxCNU03c010V0liTUE1SXloZnh5Q011MlhIZnVPV3EzQzc2bV9ydHNOQjYwMF8tSmRLUWVOSWZQR1dGMEw5TFUzSFJOT29jOUZ0Z1h1cG5UOG9wNG5OZHFVWHZqSGxrV2lHS0o1MHZsOV9FYWM3UV93SHZDaFU?oc=5",
-      "publishedAt": "Mon, 03 Aug 2026 00:00:00 GMT",
-      "source": "Arabian Gulf Business Insight | AGBI"
-    },
-    {
       "title": "Lenovo Group (SEHK:992) Following Its Saudi AI Deal And The Valuation Debate - simplywall.st",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUzdwWVJnQV9aOS1qWWZJSzRoa1RhcW5EbFlYZlFRTk5hajhFbzRNVTQwSm5sMGlWX0xsWEpUcVNGUENyXzI3SVAyUHM4YmNFWFhyWHdpallLSUE2RF9oOGtzUFhvOUJ2YkdMZHdIR2toRmZxSy1KTXcwWXh1VlhFWUZRdTRHOEg1bl9lZnJkaTBGLUFKTjU2WHJuemF5el9QcEJ0Q3p1NjlmVUJ4eVUtMTNpS2NDQVBBSXBZeUw3dWVCZUppLVZvVmF30gHPAUFVX3lxTE5La2tORlNHX0Q3NlVNbmV6cjR1UHhGRW5BQzdERlE0aVozZnNSWHBXUWktWHNzTHhuUEJ4cWhxTWFUMTczb3RJY25NamFyTWRTX1Rlay1EVlpwZlE0VEZFWS1Yb3oydW04MmdvNTRaejJVQlg0RkUwOWVnMXJoVDBXU1RmSThTTGZZRnN5YVpTYmVkZ08xUG45TWc5LVg0bmdFaXBfMGFCLW5CbnBXdlp2RHhhTGIxdG5oLVBSQUVqYmxxWVpfamRIX1VYMGZLSQ?oc=5",
       "publishedAt": "Thu, 30 Jul 2026 18:03:40 GMT",
       "source": "simplywall.st"
     },
     {
-      "title": "Humain invests in Saudi AI firm MOZN to develop enterprise AI solutions - Arab News",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9acjRvZi1qWG5DVWlVRFB6QU5jNEpiWVJ4QTBJdW1VTVplYjVaWFJxOXFCYkRRVEJxemtZY0R3bHNqTVFfQXVKcHVBb2I3WHdITUtlTTVIdWozaGlMQnNZ?oc=5",
-      "publishedAt": "Mon, 03 Aug 2026 11:41:01 GMT",
-      "source": "Arab News"
+      "title": "DataVolt to secure finance for Saudi AI sites ‘within 6 months’ - Arabian Gulf Business Insight | AGBI",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHI4MUNweWpreTFXLU5GUnRpank1WjY4WWt2YnNNd2wteGxCNU03c010V0liTUE1SXloZnh5Q011MlhIZnVPV3EzQzc2bV9ydHNOQjYwMF8tSmRLUWVOSWZQR1dGMEw5TFUzSFJOT29jOUZ0Z1h1cG5UOG9wNG5OZHFVWHZqSGxrV2lHS0o1MHZsOV9FYWM3UV93SHZDaFU?oc=5",
+      "publishedAt": "Mon, 03 Aug 2026 00:00:00 GMT",
+      "source": "Arabian Gulf Business Insight | AGBI"
     },
     {
       "title": "HUMAIN invests in Saudi AI firm MOZN to scale enterprise solutions - ITP.net",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNXzNsMnNWRkVsYlM3TlhrbXdlSlpVUkRwbHdha1Nob0MyeHpPb1ZYTm1RUXZ5dWtWekMtMUJyZWdOTjYyMzdDa0h3Sy1SZnUwZ2FGczlKSWNHVHFQdV9TREtBR3ZiMnhVdzRIMTFMMFVodDdoUzJ3allLX1VrRGxDQmJlOHhUMkdjbE9QaUtXMmdwNGRuY1NTUFlmQnZ6Wld2bWc?oc=5",
       "publishedAt": "Tue, 04 Aug 2026 04:57:00 GMT",
       "source": "ITP.net"
+    },
+    {
+      "title": "Humain invests in Saudi AI firm MOZN to develop enterprise AI solutions - Arab News",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9acjRvZi1qWG5DVWlVRFB6QU5jNEpiWVJ4QTBJdW1VTVplYjVaWFJxOXFCYkRRVEJxemtZY0R3bHNqTVFfQXVKcHVBb2I3WHdITUtlTTVIdWozaGlMQnNZ?oc=5",
+      "publishedAt": "Mon, 03 Aug 2026 11:41:01 GMT",
+      "source": "Arab News"
     },
     {
       "title": "Saudi AI training initiative draws 51,000 registrations from 170 countries - People Matters Global",
@@ -445,8 +463,8 @@
     "sentiment": "Neutral"
   },
   "metadata": {
-    "fetched_at": "2026-08-05T05:46:43.486546",
-    "fetch_duration_seconds": 0.840474,
+    "fetched_at": "2026-08-06T05:49:24.449437",
+    "fetch_duration_seconds": 1.054367,
     "openrouter_api_available": true,
     "news_count": 12
   }
