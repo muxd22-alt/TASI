@@ -1,10 +1,7 @@
 {
-  "timestamp": "2026-08-09T04:18:08.169506",
+  "timestamp": "2026-08-10T04:38:28.792477",
   "tasi": {
     "index": [
-      "2026-07-06",
-      "2026-07-07",
-      "2026-07-08",
       "2026-07-09",
       "2026-07-12",
       "2026-07-13",
@@ -13,9 +10,6 @@
       "2026-07-16"
     ],
     "open": [
-      10804.580078125,
-      10817.490234375,
-      10842.400390625,
       10853.2001953125,
       10811.5,
       10825.8896484375,
@@ -24,9 +18,6 @@
       10714.9296875
     ],
     "high": [
-      10839.8896484375,
-      10852.41015625,
-      10854.919921875,
       10854.0498046875,
       10838.509765625,
       10870.4501953125,
@@ -35,9 +26,6 @@
       10733.2802734375
     ],
     "low": [
-      10793.41015625,
-      10788.080078125,
-      10813.8896484375,
       10788.759765625,
       10796.7001953125,
       10794.9501953125,
@@ -46,9 +34,6 @@
       10693.8203125
     ],
     "close": [
-      10813.0400390625,
-      10852.41015625,
-      10853.73046875,
       10808.4296875,
       10818.98046875,
       10801.7099609375,
@@ -57,9 +42,6 @@
       10720.2802734375
     ],
     "volume": [
-      244708700,
-      219515900,
-      228060000,
       181885400,
       126441400,
       201200200,
@@ -222,7 +204,6 @@
   },
   "oil": {
     "index": [
-      "2026-07-09",
       "2026-07-10",
       "2026-07-13",
       "2026-07-14",
@@ -243,10 +224,10 @@
       "2026-08-04",
       "2026-08-05",
       "2026-08-06",
-      "2026-08-07"
+      "2026-08-07",
+      "2026-08-10"
     ],
     "open": [
-      79.37999725341797,
       75.97000122070312,
       78.05000305175781,
       83.29000091552734,
@@ -267,10 +248,10 @@
       83.58000183105469,
       78.93000030517578,
       79.43000030517578,
-      0.0
+      83.33000183105469,
+      83.55999755859375
     ],
     "high": [
-      79.37999725341797,
       77.55999755859375,
       83.86000061035156,
       87.54000091552734,
@@ -291,10 +272,10 @@
       86.33000183105469,
       80.93000030517578,
       83.7699966430664,
-      84.38999938964844
+      84.38999938964844,
+      84.93000030517578
     ],
     "low": [
-      75.5999984741211,
       75.30999755859375,
       77.27999877929688,
       83.04000091552734,
@@ -315,10 +296,10 @@
       78.69000244140625,
       78.12999725341797,
       78.9800033569336,
-      81.5
+      81.5,
+      83.55999755859375
     ],
     "close": [
-      76.30000305175781,
       76.01000213623047,
       83.30000305175781,
       84.7300033569336,
@@ -339,10 +320,10 @@
       79.36000061035156,
       79.44999694824219,
       82.48999786376953,
-      83.55000305175781
+      83.55000305175781,
+      84.27999877929688
     ],
     "volume": [
-      47817,
       39537,
       61577,
       115669,
@@ -363,7 +344,8 @@
       64851,
       43282,
       40651,
-      35386
+      40651,
+      2738
     ]
   },
   "news": [
@@ -380,34 +362,28 @@
       "source": "Wamda"
     },
     {
-      "title": "DataVolt to secure finance for Saudi AI sites ‘within 6 months’ - Arabian Gulf Business Insight | AGBI",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHI4MUNweWpreTFXLU5GUnRpank1WjY4WWt2YnNNd2wteGxCNU03c010V0liTUE1SXloZnh5Q011MlhIZnVPV3EzQzc2bV9ydHNOQjYwMF8tSmRLUWVOSWZQR1dGMEw5TFUzSFJOT29jOUZ0Z1h1cG5UOG9wNG5OZHFVWHZqSGxrV2lHS0o1MHZsOV9FYWM3UV93SHZDaFU?oc=5",
-      "publishedAt": "Mon, 03 Aug 2026 00:00:00 GMT",
-      "source": "Arabian Gulf Business Insight | AGBI"
-    },
-    {
-      "title": "Saudi AI Team Wins Three International Awards at IOAI 2026 - ASHARQ AL-AWSAT English",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRVVjLWZYMXZwR2JtY1VLVHNUT3QyUE1KUFc0RFNCNHVTODBGaXV2ek5BMkVCZFZaYXRLMGVPdndYYzlNb0JZNkctOTUyRVZHZUlwSGlvOW53ck5rQ3MxQk45SXYyZDVkbFFDZlIzdkJzVVUzeS1rbUx1SF92MWZXbWVfU0hJYkdWQ1dRcTRBc2NwdjRaX20zZG5VVUpfenlMMVFv?oc=5",
-      "publishedAt": "Sat, 08 Aug 2026 05:47:42 GMT",
-      "source": "ASHARQ AL-AWSAT English"
-    },
-    {
       "title": "HUMAIN invests in Saudi AI firm MOZN to scale enterprise solutions - ITP.net",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNXzNsMnNWRkVsYlM3TlhrbXdlSlpVUkRwbHdha1Nob0MyeHpPb1ZYTm1RUXZ5dWtWekMtMUJyZWdOTjYyMzdDa0h3Sy1SZnUwZ2FGczlKSWNHVHFQdV9TREtBR3ZiMnhVdzRIMTFMMFVodDdoUzJ3allLX1VrRGxDQmJlOHhUMkdjbE9QaUtXMmdwNGRuY1NTUFlmQnZ6Wld2bWc?oc=5",
       "publishedAt": "Tue, 04 Aug 2026 04:57:00 GMT",
       "source": "ITP.net"
     },
     {
-      "title": "Humain invests in Saudi AI firm MOZN to develop enterprise AI solutions - arabnews.com",
+      "title": "Humain invests in Saudi AI firm MOZN to develop enterprise AI solutions - Arab News",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9acjRvZi1qWG5DVWlVRFB6QU5jNEpiWVJ4QTBJdW1VTVplYjVaWFJxOXFCYkRRVEJxemtZY0R3bHNqTVFfQXVKcHVBb2I3WHdITUtlTTVIdWozaGlMQnNZ?oc=5",
       "publishedAt": "Mon, 03 Aug 2026 11:41:01 GMT",
-      "source": "arabnews.com"
+      "source": "Arab News"
     },
     {
-      "title": "Saudi Women Outpace Men in AI Tool Usage - CairoScene",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BM2xJUUktcjlMbU0wU2x1WnBONzk4OUxYSG5XdUhqOGlkeGFkczI4R2RrOWJIdVJ2VV9URFZhVjZ3VnJIRkVUcEVtNHhKc1ozVmdSdFlFVEJrdTlQS2h3SFpUdVd6cXp3NXZESnlVdVlwZ25FSzN3?oc=5",
-      "publishedAt": "Mon, 03 Aug 2026 07:02:03 GMT",
-      "source": "CairoScene"
+      "title": "HUMAIN Makes Investment in MOZN and Partners to Co-Build Enterprise AI Solutions Locally and Globally - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcjRJVGdwS3NsTHNZYktXenNiOG5UUE4tOUgzekFEYUpRSElEMUpIb2JzRkpzcmZIZExxZDhZYTRCTlE2M2lmWlRwdXRQaXpEQ0VHb08wTTZQaGUtUnp2c1F1bU9ERTA2RWk0bDRhYWl5Zjh4Y3FKSU1LbWh5R1lUc0FVdThmZzBITTVMY3Z1WlQtYkZteHFldUxKUDBBR29pcnBWYzRaUGtoYnh6dnVINVVFcGJ6QW1McVBPQkc3bUFlYmhuclcwMHAzV1JvZi1sRmhheUVtai02VjR5bkdySnRaNmVhZTRtbk0wcVhpMHpldl9Hb3pZYg?oc=5",
+      "publishedAt": "Mon, 03 Aug 2026 08:40:00 GMT",
+      "source": "PR Newswire"
+    },
+    {
+      "title": "Saudi AI Team Wins Three International Awards at IOAI 2026 - وكالة الأنباء السعودية",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE92UGRfR0wxWU81TUVtLWs4alJHbTJmMVQzRUFDSGZ0ejA2YjIwYnByWU5vNUtqbllMZHAxWkw3VjBLWkpt?oc=5",
+      "publishedAt": "Sat, 08 Aug 2026 06:22:00 GMT",
+      "source": "وكالة الأنباء السعودية"
     },
     {
       "title": "HUMAIN makes strategic investment in Saudi AI firm MOZN - ارقام",
@@ -421,9 +397,9 @@
     "sentiment": "Neutral"
   },
   "metadata": {
-    "fetched_at": "2026-08-09T04:18:08.169513",
-    "fetch_duration_seconds": 0.953171,
+    "fetched_at": "2026-08-10T04:38:28.792486",
+    "fetch_duration_seconds": 0.894799,
     "openrouter_api_available": true,
-    "news_count": 8
+    "news_count": 7
   }
 }
