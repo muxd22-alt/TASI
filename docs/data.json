@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-11T04:20:27.442511",
+  "timestamp": "2026-08-13T04:51:14.505261",
   "tasi": {
     "index": [
       "2026-07-12",
@@ -66,7 +66,9 @@
       "2026-08-05",
       "2026-08-06",
       "2026-08-07",
-      "2026-08-10"
+      "2026-08-10",
+      "2026-08-11",
+      "2026-08-12"
     ],
     "open": [
       717.719970703125,
@@ -89,7 +91,9 @@
       726.25,
       710.8200073242188,
       720.1500244140625,
-      722.3900146484375
+      722.3900146484375,
+      723.2899780273438,
+      727.0800170898438
     ],
     "high": [
       718.739990234375,
@@ -112,7 +116,9 @@
       728.5399780273438,
       719.3200073242188,
       723.6300048828125,
-      724.6699829101562
+      724.6699829101562,
+      723.3499755859375,
+      727.25
     ],
     "low": [
       710.0800170898438,
@@ -135,7 +141,9 @@
       716.9199829101562,
       708.5,
       716.510009765625,
-      720.3300170898438
+      720.3300170898438,
+      715.5,
+      722.9199829101562
     ],
     "close": [
       711.739990234375,
@@ -158,7 +166,9 @@
       717.2999877929688,
       714.6500244140625,
       723.030029296875,
-      720.8699951171875
+      720.8699951171875,
+      718.4500122070312,
+      723.7000122070312
     ],
     "volume": [
       36552400,
@@ -181,7 +191,9 @@
       33540200,
       33035900,
       31070400,
-      26141400
+      26243200,
+      29286100,
+      28926200
     ]
   },
   "oil": {
@@ -207,7 +219,9 @@
       "2026-08-06",
       "2026-08-07",
       "2026-08-10",
-      "2026-08-11"
+      "2026-08-11",
+      "2026-08-12",
+      "2026-08-13"
     ],
     "open": [
       78.05000305175781,
@@ -231,7 +245,9 @@
       79.43000030517578,
       83.33000183105469,
       83.55999755859375,
-      87.97000122070312
+      87.97000122070312,
+      89.2699966430664,
+      88.47000122070312
     ],
     "high": [
       83.86000061035156,
@@ -255,7 +271,9 @@
       83.7699966430664,
       84.38999938964844,
       87.91999816894531,
-      88.05999755859375
+      90.02999877929688,
+      90.06999969482422,
+      88.83000183105469
     ],
     "low": [
       77.27999877929688,
@@ -279,7 +297,9 @@
       78.9800033569336,
       81.5,
       83.33999633789062,
-      87.52999877929688
+      86.7300033569336,
+      88.12000274658203,
+      87.69000244140625
     ],
     "close": [
       83.30000305175781,
@@ -303,7 +323,9 @@
       82.48999786376953,
       83.55000305175781,
       87.72000122070312,
-      87.55000305175781
+      88.91000366210938,
+      88.9800033569336,
+      88.7699966430664
     ],
     "volume": [
       61577,
@@ -326,52 +348,24 @@
       43282,
       40651,
       37626,
-      37626,
-      1289
+      30023,
+      35498,
+      35498,
+      1687
     ]
   },
   "news": [
     {
-      "title": "SDAIA Launches AI Badge Program to Build Saudi AI Talent - MIT Sloan Management Review Middle East",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1JMOS10RGV3S2J1MG4xNU5UTXNMRlFHOHVrbEdYdTRQQWZpaTdaNnFodHRuaC11M3NHTmtQWHVnT2ZYOTV4WVc5V0E5LXFPRTlBV25OX1YzcEJSa3R2c3RoNnNiMlZUZzkzZlFMNUtFVGhTV2c1RWJQNHc0dFZvRENfZmZVcGk3ekxUTmE5TWpBX09sdHJr?oc=5",
-      "publishedAt": "Tue, 04 Aug 2026 17:10:36 GMT",
-      "source": "MIT Sloan Management Review Middle East"
-    },
-    {
-      "title": "Saudi AI firm MOZN secures strategic investment from HUMAIN - Wamda",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaWEzZzdfZW9kNU5QdkRXQUpNeWNwNHVwRGFnWkh6ZEZRa2ZPVDhfaWlkRXdIYm1Qd002WUEwdEZMTmtXWFdrbEI3ODQ0a1RVcVV3LV9mdl9qWEVQOFgxemZfdWo3QkxkMV9xZDRmNmw3RFdZd3Q2NUc0Y19xOFR0NXlGTGVjcmI2NjljdQ?oc=5",
-      "publishedAt": "Tue, 04 Aug 2026 12:00:32 GMT",
-      "source": "Wamda"
-    },
-    {
-      "title": "Saudi AI tool adoption more than doubles to 45.2% - Arab News PK",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94aks2SHBISFl3cFdaTXZvMThCLWtMbTN1WEk2UGNuSGQyczNiNWhjVzRESHoyX0Z1VVlNdW8xa09hT1NmUm1mbkNKZXJqdXpVU29Qd2I5S0VEa0kwVXdQOGZ0SQ?oc=5",
-      "publishedAt": "Mon, 10 Aug 2026 10:32:41 GMT",
-      "source": "Arab News PK"
-    },
-    {
-      "title": "HUMAIN invests in Saudi AI firm MOZN to scale enterprise solutions - itp.net",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNXzNsMnNWRkVsYlM3TlhrbXdlSlpVUkRwbHdha1Nob0MyeHpPb1ZYTm1RUXZ5dWtWekMtMUJyZWdOTjYyMzdDa0h3Sy1SZnUwZ2FGczlKSWNHVHFQdV9TREtBR3ZiMnhVdzRIMTFMMFVodDdoUzJ3allLX1VrRGxDQmJlOHhUMkdjbE9QaUtXMmdwNGRuY1NTUFlmQnZ6Wld2bWc?oc=5",
-      "publishedAt": "Tue, 04 Aug 2026 04:57:00 GMT",
-      "source": "itp.net"
-    },
-    {
       "title": "Saudi AI Team Wins Three International Awards at IOAI 2026 - ASHARQ AL-AWSAT English",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRVVjLWZYMXZwR2JtY1VLVHNUT3QyUE1KUFc0RFNCNHVTODBGaXV2ek5BMkVCZFZaYXRLMGVPdndYYzlNb0JZNkctOTUyRVZHZUlwSGlvOW53ck5rQ3MxQk45SXYyZDVkbFFDZlIzdkJzVVUzeS1rbUx1SF92MWZXbWVfU0hJYkdWQ1dRcTRBc2NwdjRaX20zZG5VVUpfenlMMVFv?oc=5",
-      "publishedAt": "Sat, 08 Aug 2026 05:47:42 GMT",
+      "publishedAt": "Tue, 11 Aug 2026 07:35:42 GMT",
       "source": "ASHARQ AL-AWSAT English"
     },
     {
-      "title": "AI adoption more than doubles in Saudi Arabia, reaching 45.2% of internet users - People Matters Global",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZlEyY1p4NTZYeEphOURLTEdMZURPNUtvTFZnV0FKblRlZ3FtTmZLYWNqYm9CVzdLS0VkYW9hS0dYNERoM192TzBFUmpNNWZkTEpMVm5fcXN4VzdZVU1pS2VhSE9WaFVmdUZOZXI2UUdxWHl2bG15ZERPUlVKbFpKdVFPaG1aWnRtZDh1Um9pNjhxRm1WN3NlaGIwY0tzQlhEcVhfdDZfLXY2UnhleVlEaHkya1NqcnVNMFU4Qmo5SjN4M1ViNktGMzY1al80ODBEaFplX2hsTjNvUTU5S244UFd2Zl8?oc=5",
-      "publishedAt": "Mon, 10 Aug 2026 10:41:50 GMT",
-      "source": "People Matters Global"
-    },
-    {
-      "title": "Saudi startup RIME raises over $2 million Seed round - Wamda",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdk9DamhRN3VhV3RockQwbWdnWEs2bTZyb2RlMlRYbnZBTnRIcC1vTzBEMm1ETklMX21PR1RDaG1qeHZqdEcwOUhiSnNYOEhPWnJFX3JQdzFiVzlzYXFNSElwaEtFdEF6Y29nNWh1LXhvSzZ1UlpGelpaNklSaE1kTE9R?oc=5",
-      "publishedAt": "Tue, 04 Aug 2026 15:51:58 GMT",
-      "source": "Wamda"
+      "title": "Middle East Business: Saudi AI tool adoption more than doubles to 45.2pc - Gulf Daily News (Bahrain)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kV0wwM3ZNdVpzR0hLTTV5MUlKdXFYZzNxa2FNUzhWOXNPVFU4aUpyRGdQUVd6ZVJDRUR1Q0lHSHA0dlgtdmQyelhNNTVNM0VvcFRR?oc=5",
+      "publishedAt": "Tue, 11 Aug 2026 12:37:49 GMT",
+      "source": "Gulf Daily News (Bahrain)"
     }
   ],
   "ai_analysis": {
@@ -379,9 +373,9 @@
     "sentiment": "Neutral"
   },
   "metadata": {
-    "fetched_at": "2026-08-11T04:20:27.442521",
-    "fetch_duration_seconds": 0.921458,
+    "fetched_at": "2026-08-13T04:51:14.505272",
+    "fetch_duration_seconds": 0.983639,
     "openrouter_api_available": true,
-    "news_count": 7
+    "news_count": 2
   }
 }
